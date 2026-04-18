@@ -1,0 +1,11 @@
+# Ignore dataset and image outputs
+data/raw/
+data/processed/
+*.jpg
+*.png
+*.jpeg
+
+# Ignore environment and Jupyter temporary files
+.ipynb_checkpoints/
+__pycache__/
+.env
