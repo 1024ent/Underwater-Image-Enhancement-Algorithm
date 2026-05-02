@@ -1,0 +1,891 @@
+Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,Category_Tags
+100_img_.png,22.9,134.83,175.35,664.33,105.98,0.0001,Deep Sea (Severe Cast)
+10139.png,55.34,149.9,162.76,55.64,123.12,0,Turbid / High Haze
+10151.png,57.48,108.43,96.13,94.51,91.8,0,Turbid / High Haze
+101_img_.png,101.42,156.63,112.2,68.93,135.05,0.0001,Turbid / High Haze
+102_img_.png,30.29,114.32,91.74,116.44,86.61,0.0001,Deep Sea (Severe Cast)
+104_img_.png,41.49,121.62,166.43,54.36,102.76,0.0045,Turbid / High Haze
+105_img_.png,26.3,146.2,74.31,97.4,102.15,0,Turbid / High Haze + Deep Sea (Severe Cast)
+106_img_.png,44.66,66.1,82.12,1056.34,61.5,0,Standard / Moderate
+107_img_.png,4.7,113.94,177.4,21.89,88.5,0,Turbid / High Haze + Deep Sea (Severe Cast)
+108_img_.png,106.33,169.03,180.72,156.28,151.58,0.0019,Standard / Moderate
+10909.png,89.77,105.95,104.19,44.93,100.92,0.0001,Turbid / High Haze
+10945.png,59.66,117.34,149.84,10.97,103.82,0,Turbid / High Haze
+109_img_.png,13.53,142.99,126.83,283.63,102.45,0.0027,Deep Sea (Severe Cast)
+10_img_.png,4.15,121.79,181.93,82.62,93.45,0.0072,Turbid / High Haze + Deep Sea (Severe Cast)
+11052.png,93.77,92.86,82.35,95.03,91.93,0,Turbid / High Haze
+11064.png,69.32,96.58,105.99,82.23,89.49,0,Turbid / High Haze
+111_img_.png,22.2,112.52,166.8,36.74,91.65,0,Turbid / High Haze + Deep Sea (Severe Cast)
+112_img_.png,105.35,159,161.87,45.89,143.28,0.001,Turbid / High Haze
+11374.png,74.99,138.79,138.75,196.29,119.67,0.0009,Standard / Moderate
+11398.png,75.49,142.52,127.78,106.13,120.79,0,Standard / Moderate
+113_img_.png,17.73,114.06,128.52,37.09,86.9,0.0212,Turbid / High Haze + Shallow (Sunlit / Caustics)
+114_img_.png,69.55,135.26,161.31,1713.06,118.59,0.0381,Shallow (Sunlit / Caustics)
+115_img_.png,13.75,94.05,180.65,565.25,79.91,0,Deep Sea (Severe Cast)
+116_img_.png,60.96,145.22,142.34,265.46,119.69,0.0059,Standard / Moderate
+117_img_.png,118.66,117.02,114.08,478.4,117.18,0.0058,Standard / Moderate
+118_img_.png,117.88,131.6,142.78,204.56,128.77,0.0061,Standard / Moderate
+11_img_.png,22.42,123.66,116.59,555.63,92.57,0.0104,Deep Sea (Severe Cast)
+120_img_.png,111.35,134.99,153.68,130.25,130.05,0.0038,Standard / Moderate
+121_img_.png,61.1,110.5,132.76,416.78,98.25,0.0074,Standard / Moderate
+1225.png,61.63,95.54,83.98,297.36,84.08,0.0104,Standard / Moderate
+12290.png,23.82,25.59,28.09,14.13,25.32,0,Low Illumination + Turbid / High Haze
+12299.png,35.95,43.72,44.05,34.26,41.44,0.0014,Low Illumination + Turbid / High Haze
+122_img_.png,112.72,132.6,149.45,144.6,128.57,0.0008,Standard / Moderate
+12324.png,40.83,43,38.86,111.95,41.87,0.0106,Low Illumination
+12336.png,66.92,65.01,57.8,36.45,64.77,0.0007,Turbid / High Haze
+12348.png,28.49,36.59,33.83,9.34,33.85,0,Low Illumination + Turbid / High Haze
+123_img_.png,139.65,139.53,142.46,559.31,139.9,0.0075,Standard / Moderate
+12422.png,51.89,88.35,101.17,12.84,78.91,0,Turbid / High Haze
+12433.png,61.14,92.48,100.76,96.95,84.06,0.0095,Turbid / High Haze
+12445.png,59.66,86.56,97.69,271.49,79.78,0.0048,Standard / Moderate
+124_img_.png,109.28,135.38,158.62,220.97,130.22,0.003,Standard / Moderate
+125_img_.png,136.01,132.06,132.82,797.72,133.33,0.0062,Standard / Moderate
+12900.png,57.23,86.91,94.38,31.49,78.88,0.0017,Turbid / High Haze
+129_img_.png,3.46,119.49,121.03,85.73,84.97,0,Turbid / High Haze + Deep Sea (Severe Cast)
+130_img_.png,111.76,127.17,141.35,254.82,124.18,0.0009,Standard / Moderate
+131_img_.png,90.71,129.62,162.6,127.55,121.74,0.0014,Standard / Moderate
+133_img_.png,124.59,135.41,144.83,248.89,133.25,0.0017,Standard / Moderate
+135_img_.png,66.8,146.83,178.77,184.06,126.54,0.0007,Standard / Moderate
+136_img_.png,26.06,70.42,98.39,184.71,60.33,0,Deep Sea (Severe Cast)
+137_img_.png,124.33,136.25,150.72,271.17,134.33,0.0041,Standard / Moderate
+138_img_.png,79.38,136.16,180.9,91.73,124.28,0.0008,Turbid / High Haze
+139_img_.png,1.58,141.05,178.21,22.1,103.57,0,Turbid / High Haze + Deep Sea (Severe Cast)
+13_img_.png,39.47,154.89,150.57,248.07,119.92,0.0004,Deep Sea (Severe Cast)
+1407.png,75.07,89.67,95.98,85.92,86.04,0.0097,Turbid / High Haze
+140_img_.png,40.55,103.43,115.79,125.64,86.03,0.0007,Standard / Moderate
+141_img_.png,101.88,124.58,144.3,258.57,120.04,0.0026,Standard / Moderate
+142_img_.png,1.93,152.37,113.7,17.31,102.96,0,Turbid / High Haze + Deep Sea (Severe Cast)
+143_img_.png,21.56,157.4,135.74,265.76,114.31,0.0027,Deep Sea (Severe Cast)
+144_img_.png,111.41,139.82,160.78,239.07,133.71,0.0013,Standard / Moderate
+145_img_.png,105.34,130.11,149.49,202.71,124.91,0.0009,Standard / Moderate
+146_img_.png,3.03,140.62,145.78,310.55,100.06,0,Deep Sea (Severe Cast)
+148_img_.png,117.57,133.89,149.88,279.42,130.83,0.0042,Standard / Moderate
+1491.png,34.3,72.79,77.05,46.34,61.76,0.0002,Turbid / High Haze
+149_img_.png,43.48,137.34,172.08,162.94,113.24,0.001,Standard / Moderate
+14_img_.png,35.25,115.74,116.87,335.71,91.79,0.0084,Deep Sea (Severe Cast)
+15001.png,106.33,117.61,13.27,127.1,102.34,0.0008,Standard / Moderate
+15003.png,115.69,126.72,15.85,76.68,110.77,0.0031,Turbid / High Haze
+15045.png,123.08,159.6,153.47,58.44,147.97,0.0002,Turbid / High Haze
+15094.png,120.84,148.33,146.45,69.67,139.9,0.0202,Turbid / High Haze + Shallow (Sunlit / Caustics)
+150_img_.png,97.89,137.82,168.93,248.38,129.43,0.0016,Standard / Moderate
+15113.png,110.63,150.45,147.24,22.64,138.17,0.0006,Turbid / High Haze
+15136.png,104.29,129.57,132.89,25.12,122.39,0.0041,Turbid / High Haze
+151_img_.png,58.12,138.52,175.59,121.96,118.71,0.0002,Standard / Moderate
+152_img_.png,96.52,121.58,162.33,269.16,118.7,0.0001,Standard / Moderate
+1539.png,61.15,103.69,91.7,119.51,89.61,0,Standard / Moderate
+153_img_.png,63.79,128.61,158.7,196.53,112.66,0.0023,Standard / Moderate
+15418.png,94.13,99.39,25.86,21.92,89.44,0.0013,Turbid / High Haze
+15426.png,88.17,108.95,42.65,20.7,95.19,0.0014,Turbid / High Haze
+154_img_.png,124.87,135.79,146.87,450.54,133.78,0.0046,Standard / Moderate
+15544.png,112.29,123.75,75.95,233.42,114.86,0.0403,Shallow (Sunlit / Caustics)
+155_img_.png,93.96,124.91,109.03,787.47,113.84,0.0126,Standard / Moderate
+156_img_.png,128.36,126.91,129.84,878.13,127.68,0.0089,Standard / Moderate
+15704.png,123.08,161.65,158.8,14.79,149.79,0,Turbid / High Haze
+1573.png,48.79,113.14,97.27,56.72,92.1,0.0038,Turbid / High Haze
+157_img_.png,95.52,122.71,141.26,338.3,116.69,0.0028,Standard / Moderate
+158_img_.png,128.05,124.4,125.36,989.44,125.6,0.0086,Standard / Moderate
+159_img_.png,113.25,129.16,140.23,279.44,125.66,0.001,Standard / Moderate
+15_img_.png,52.83,126.33,120.16,1978.6,103.64,0.0233,Shallow (Sunlit / Caustics)
+160_img_.png,45.51,155.65,170.5,155.15,124.42,0.0004,Standard / Moderate
+161_img_.png,123.38,123.04,122.88,1068.22,123.13,0.0086,Standard / Moderate
+162_img_.png,120.83,125.62,130.81,859.1,124.78,0.0082,Standard / Moderate
+163_img_.png,120.11,123.56,120.1,1941.01,122.13,0.0213,Shallow (Sunlit / Caustics)
+164_img_.png,118.38,128.9,140.7,524.94,127.1,0.0162,Standard / Moderate
+165_img_.png,108.78,122.15,138.87,589.89,120.05,0.0041,Standard / Moderate
+1660.png,32.07,116.12,110.47,31.15,90.35,0,Turbid / High Haze + Deep Sea (Severe Cast)
+166_img_.png,59.57,109.82,95.07,671.77,93.11,0.0072,Standard / Moderate
+168_img_.png,1.74,117.56,173.24,83.55,89.25,0,Turbid / High Haze + Deep Sea (Severe Cast)
+169_img_.png,73.49,171.32,144.47,945.79,139.01,0.0313,Shallow (Sunlit / Caustics)
+16_img_.png,121.55,126.26,131.96,134.72,125.5,0.0054,Standard / Moderate
+170_img_.png,86.92,129.85,160.87,223.4,120.55,0,Standard / Moderate
+171_img_.png,79.31,157.89,136.83,74.61,131.99,0.002,Turbid / High Haze
+172_img_.png,82.06,165.48,133.91,1648.02,136.92,0.0137,Standard / Moderate
+173_img_.png,70.72,138.98,166.98,375.9,121.76,0.0021,Standard / Moderate
+1742.png,63.86,143.28,144,32.91,119.62,0,Turbid / High Haze
+174_img_.png,97.33,173.23,203.37,45.68,153.97,0.0014,Turbid / High Haze
+175_img_.png,141.73,140.38,133.74,17.95,140.02,0.0007,Turbid / High Haze
+176_img_.png,113.31,138.15,142.52,3564.27,131.22,0.037,Shallow (Sunlit / Caustics)
+177_img_.png,29.7,112.7,190.09,766.28,96.71,0.0004,Deep Sea (Severe Cast)
+178_img_.png,120.47,133.35,114.61,112.64,127.35,0.0005,Standard / Moderate
+179_img_.png,112.68,125.88,95.02,321.02,118.42,0.001,Standard / Moderate
+17_img_.png,93.8,124.42,140.24,1019.48,117.06,0.0166,Standard / Moderate
+180_img_.png,56.09,125.02,107.15,286.85,102.37,0.0061,Standard / Moderate
+182_img_.png,39.49,114.33,125.17,2004.13,93.18,0.0031,Deep Sea (Severe Cast)
+183_img_.png,111.07,121.82,102.7,235.85,116.42,0.0043,Standard / Moderate
+184_img_.png,91.83,91.38,48.64,130.21,86.62,0.0019,Standard / Moderate
+185_img_.png,117.45,131.89,96.43,781.28,123.53,0.0123,Standard / Moderate
+186_img_.png,51.34,116.95,142.13,623.74,100.19,0.0133,Standard / Moderate
+187_img_.png,120.02,131.83,117.7,272.03,126.68,0.0101,Standard / Moderate
+188_img_.png,115.88,129.67,99.09,766.91,122.06,0.0127,Standard / Moderate
+189_img_.png,5.79,111.49,128.85,69.97,81.86,0.0001,Turbid / High Haze + Deep Sea (Severe Cast)
+18_img_.png,12.28,176.96,104.32,109.83,119.43,0,Deep Sea (Severe Cast)
+190_img_.png,115.1,122.7,111.74,325.87,119.18,0.0002,Standard / Moderate
+191_img_.png,114.18,123.26,130.2,367.3,121.33,0.0008,Standard / Moderate
+192_img_.png,92.73,112.65,103.45,1030.28,105.65,0.0156,Standard / Moderate
+193_img_.png,78.59,117.36,105.49,1108.37,104.42,0.0404,Shallow (Sunlit / Caustics)
+194_img_.png,111.45,124.62,98.07,525.72,117.65,0.0021,Standard / Moderate
+1957.png,83.75,94.22,75.33,61.04,88.94,0.0012,Turbid / High Haze
+195_img_.png,116.7,134.92,128.76,269.81,128.78,0.0041,Standard / Moderate
+196_img_.png,103.2,117.07,90.85,750.24,109.94,0.0033,Standard / Moderate
+197_img_.png,97.07,162.31,167.55,392.11,143.42,0.0753,Shallow (Sunlit / Caustics)
+198_img_.png,106.76,121.38,102.54,522.12,114.86,0.0035,Standard / Moderate
+199_img_.png,107.86,124.39,119.97,364.52,118.94,0.0026,Standard / Moderate
+19_img_.png,41.33,108.48,111.2,912.56,88.71,0.0076,Standard / Moderate
+20.png,89.3,118.34,113.67,214.61,109.12,0.0048,Standard / Moderate
+200_img_.png,128.26,135.22,78.81,912.38,126.71,0.0253,Shallow (Sunlit / Caustics)
+201_img_.png,95.04,122.76,115.95,1353.7,113.7,0.0131,Standard / Moderate
+202_img_.png,169.93,187.09,120.12,205.14,174.33,0.0305,Shallow (Sunlit / Caustics)
+203_img_.png,10.76,115.34,117.46,418.69,84.27,0.0075,Deep Sea (Severe Cast)
+204_img_.png,26.11,141.19,63.75,75.32,97.94,0,Turbid / High Haze + Deep Sea (Severe Cast)
+205_img_.png,129.24,138.28,137.59,110.27,135.5,0.0001,Standard / Moderate
+206_img_.png,106.15,117.84,94.52,831.27,111.69,0.0097,Standard / Moderate
+207_img_.png,115.87,128.26,98.02,771.74,121.11,0.0059,Standard / Moderate
+208_img_.png,93.93,164.16,157.28,55.43,142.36,0.0009,Turbid / High Haze
+209_img_.png,118.9,123.78,109.13,638.07,120.65,0.0035,Standard / Moderate
+210_img_.png,118.68,131.37,118.28,423.57,126.09,0.0123,Standard / Moderate
+211_img_.png,110.84,119.2,99.05,958.15,114.4,0.028,Shallow (Sunlit / Caustics)
+212_img_.png,123.51,134.57,104.7,1212.36,127.86,0.0156,Standard / Moderate
+213_img_.png,128.84,130.77,132.92,384.46,130.44,0.001,Standard / Moderate
+214_img_.png,132.87,134.73,136.1,347.28,134.34,0.0005,Standard / Moderate
+215_img_.png,125.3,129.25,119.01,611.1,126.9,0.0053,Standard / Moderate
+216_img_.png,123.07,129.85,111.96,595.78,125.79,0.0062,Standard / Moderate
+217_img_.png,126.13,140.61,111.67,402.22,132.99,0.0019,Standard / Moderate
+219_img_.png,110.48,122.83,74.08,1730.66,113.58,0.0178,Standard / Moderate
+220_img_.png,118.52,126.43,110.01,1439.68,122.19,0.0134,Standard / Moderate
+221_img_.png,31.66,96.81,156.66,1088.57,84.13,0.0001,Deep Sea (Severe Cast)
+222_img_.png,18.85,109.68,130.38,129.24,84.9,0.0004,Deep Sea (Severe Cast)
+223_img_.png,123.47,134.96,129.46,836.61,130.9,0.0067,Standard / Moderate
+224_img_.png,127.67,136.81,131.56,600.4,133.48,0.0041,Standard / Moderate
+225_img_.png,28.21,108.26,121.33,7340.52,85.81,0.0169,Deep Sea (Severe Cast)
+226_img_.png,130.41,139.52,135.63,219.58,136.36,0.0016,Standard / Moderate
+227_img_.png,85.71,134.24,164.09,1298.96,123.12,0.0239,Shallow (Sunlit / Caustics)
+228_img_.png,14.39,118.15,138.05,333.08,89.4,0.0008,Deep Sea (Severe Cast)
+229_img_.png,33.79,58.95,71.26,94.36,52.82,0.0085,Turbid / High Haze
+22_img_.png,131.72,140.32,147.09,31,138.52,0.0007,Turbid / High Haze
+230_img_.png,112.06,119.27,98.74,1633.26,114.77,0.0117,Standard / Moderate
+231_img_.png,137.98,143.1,145.59,150.43,141.85,0.0004,Standard / Moderate
+232_img_.png,128.11,134.22,129.36,260.17,131.84,0.0002,Standard / Moderate
+233_img_.png,131.87,136.04,126.19,444.12,133.67,0.0028,Standard / Moderate
+234_img_.png,120.39,127.7,111.71,1258.93,123.7,0.012,Standard / Moderate
+236_img_.png,128.4,136.88,127.33,433.75,133.25,0.0017,Standard / Moderate
+238_img_.png,118.35,144.47,153.96,142.91,137.74,0,Standard / Moderate
+23_img_.png,121.57,130.54,139.14,75.26,128.84,0.0024,Turbid / High Haze
+240_img_.png,51.24,95.11,120.01,47.46,84.81,0.0251,Turbid / High Haze + Shallow (Sunlit / Caustics)
+241_img_.png,132.62,137.28,141.87,129.59,136.42,0,Standard / Moderate
+242_img_.png,138.77,138.63,127.86,700.92,137.45,0.0009,Standard / Moderate
+243_img_.png,138.23,136.26,138.87,366.34,137.15,0.0002,Standard / Moderate
+244_img_.png,39.6,115.79,118.46,2014.56,93.33,0.0022,Deep Sea (Severe Cast)
+245_img_.png,135.46,134.51,138.41,330.7,135.24,0.0007,Standard / Moderate
+246_img_.png,44.66,93.64,123.94,1217.41,82.43,0.0025,Standard / Moderate
+247_img_.png,121.78,123.1,112.17,606.85,121.46,0.0025,Standard / Moderate
+248_img_.png,125.87,134.97,143.51,59.13,133.23,0,Turbid / High Haze
+24_img_.png,114.64,142.14,150.71,16.48,134.9,0,Turbid / High Haze
+251_img_.png,118.25,124.16,101.95,838.97,119.86,0.0091,Standard / Moderate
+252_img_.png,132.59,131.26,131.64,321.08,131.71,0.001,Standard / Moderate
+253_img_.png,120.02,130.04,105.97,1066.61,124.3,0.0147,Standard / Moderate
+2546.png,86.93,87.89,75.33,169,86.17,0.0034,Standard / Moderate
+254_img_.png,126.09,133.94,143.11,43.71,132.65,0,Turbid / High Haze
+255_img_.png,18.94,157.79,219.4,13.43,123.27,0,Turbid / High Haze + Deep Sea (Severe Cast)
+257_img_.png,82.32,107.8,112.54,66.31,100.72,0.0017,Turbid / High Haze
+258_img_.png,41.6,91.77,118.76,867.12,79.84,0.0001,Standard / Moderate
+259_img_.png,103.94,121.83,137.94,3757.27,118.32,0.018,Standard / Moderate
+25_img_.png,122.62,143.63,151.13,39.7,138.2,0.001,Turbid / High Haze
+260_img_.png,29.2,99.17,122.85,366.29,80.94,0.0004,Deep Sea (Severe Cast)
+261_img_.png,134.11,134.48,124.01,473.2,133.19,0.0005,Standard / Moderate
+2629.png,31.91,69.9,61.29,34.26,57.57,0,Turbid / High Haze
+262_img_.png,131.66,131.53,127.98,197.56,131.17,0,Standard / Moderate
+263_img_.png,53.11,133.48,156.54,137.66,112.08,0.0351,Shallow (Sunlit / Caustics)
+265_img_.png,126.38,126.42,123.19,160.25,126.04,0,Standard / Moderate
+266_img_.png,124.91,129.77,111.35,590.6,126.21,0.0037,Standard / Moderate
+2677.png,30.41,77.22,69.59,16.25,62.35,0,Turbid / High Haze
+267_img_.png,128.39,128.7,128.33,114.21,128.57,0,Standard / Moderate
+268_img_.png,1.8,109.53,111.67,60.9,77.53,0.0001,Turbid / High Haze + Deep Sea (Severe Cast)
+26_img_.png,123.62,148.86,157.22,26.93,142.27,0.0005,Turbid / High Haze
+2701.png,49.77,76.86,72.87,65.1,68.3,0.0001,Turbid / High Haze
+270_img_.png,125.78,134.25,115.91,184.07,129.62,0.0057,Standard / Moderate
+271_img_.png,106.98,121.1,85.41,806.26,112.81,0.0073,Standard / Moderate
+272_img_.png,130.89,135.57,135.46,77.54,134.16,0,Turbid / High Haze
+273_img_.png,120.15,124.94,114.55,87.6,122.34,0.0006,Turbid / High Haze
+274_img_.png,46.92,146.85,146.81,289.7,116.98,0.0097,Standard / Moderate
+275_img_.png,104,116.7,90.78,706.82,109.95,0.0066,Standard / Moderate
+276_img_.png,128.55,129.76,126.37,81.78,129.02,0,Turbid / High Haze
+2774.png,57.72,93.36,89.62,19.1,82.27,0,Turbid / High Haze
+277_img_.png,60.03,135.74,142.93,153.23,113.9,0.0793,Shallow (Sunlit / Caustics)
+2787.png,18.38,52.9,63.99,22.32,43.84,0,Low Illumination + Turbid / High Haze
+278_img_.png,47.01,100.7,120.04,360.3,86.84,0.008,Standard / Moderate
+279_img_.png,34.46,64.75,97.81,283.78,59.45,0.0035,Deep Sea (Severe Cast)
+27_img_.png,117.99,143.58,149.39,37.14,136.59,0.0009,Turbid / High Haze
+280_img_.png,129.79,147.99,149.85,11.81,142.77,0,Turbid / High Haze
+281_img_.png,139.78,141.09,140.08,161.1,140.58,0.0005,Standard / Moderate
+282_img_.png,88.65,154.72,157.92,1484.56,135.33,0.0029,Standard / Moderate
+284_img_.png,56.41,145.11,163.78,429.61,120.7,0.0074,Standard / Moderate
+285_img_.png,29.24,99.5,116.46,127.25,80.42,0.0079,Deep Sea (Severe Cast)
+287_img_.png,24.93,93.68,117.53,597.28,75.82,0.0031,Deep Sea (Severe Cast)
+2882.png,61.1,82.03,79.02,42.97,75.43,0,Turbid / High Haze
+288_img_.png,38.55,137.79,104.87,662.4,104.36,0.002,Deep Sea (Severe Cast)
+28_img_.png,68.9,145.74,135.44,300.87,121.59,0.024,Shallow (Sunlit / Caustics)
+290_img_.png,47.64,77.49,68.32,815.93,67.51,0.0028,Standard / Moderate
+292_img_.png,119.47,161.4,142.46,701.06,146.7,0.0588,Shallow (Sunlit / Caustics)
+293_img_.png,44.53,138.28,96.01,1183.27,105.43,0,Standard / Moderate
+294_img_.png,30.64,36.24,43.36,3291.88,35.39,0.0005,Low Illumination
+295_img_.png,43.28,138.4,153.85,4400.91,111.71,0.0139,Standard / Moderate
+296_img_.png,56.05,122.69,107.03,48.28,100.98,0.0001,Turbid / High Haze
+2977.png,36.56,106.01,110.72,176.4,85.78,0,Deep Sea (Severe Cast)
+298_img_.png,63.54,99.02,128.63,363.81,91.77,0.0112,Standard / Moderate
+299_img_.png,9.85,141.31,152.78,351.12,103.32,0.0071,Deep Sea (Severe Cast)
+29_img_.png,108.27,107.65,121.77,2313.62,109.43,0.0051,Standard / Moderate
+2_img_.png,56.14,96.66,119.61,3764.01,87.14,0.0046,Standard / Moderate
+3001.png,17.92,86.6,105.58,68.39,68.24,0,Turbid / High Haze + Deep Sea (Severe Cast)
+300_img_.png,58.58,109.99,69.27,592.33,89.95,0.0008,Standard / Moderate
+3015.png,84.33,107.1,113.81,85.67,101.06,0.06,Turbid / High Haze + Shallow (Sunlit / Caustics)
+301_img_.png,13.18,129.97,130.54,344.42,95.12,0,Deep Sea (Severe Cast)
+302_img_.png,7.74,102.53,117.4,267.47,75.88,0.0003,Deep Sea (Severe Cast)
+303_img_.png,55.14,116.85,143.71,755.78,101.45,0,Standard / Moderate
+304_img_.png,100.51,104.89,54.99,1890.97,97.89,0.0006,Standard / Moderate
+305_img_.png,26.67,112.59,118.46,2049.99,87.56,0.004,Deep Sea (Severe Cast)
+306_img_.png,50.84,81.53,96.34,723.38,74.05,0.022,Shallow (Sunlit / Caustics)
+307_img_.png,89.33,132.3,104.88,377.79,116.31,0.0243,Shallow (Sunlit / Caustics)
+30_img_.png,46.21,163.34,172.06,933.84,129.31,0.0327,Shallow (Sunlit / Caustics)
+31.png,85.37,115.43,112.58,111.72,106.12,0.0099,Standard / Moderate
+311_img_.png,124.17,163.06,130.53,1394.01,147.71,0.0516,Shallow (Sunlit / Caustics)
+312_img_.png,50.52,106.83,132.19,1717.19,92.87,0.0032,Standard / Moderate
+313_img_.png,26.37,105.69,129.46,1101.65,84.68,0.0008,Deep Sea (Severe Cast)
+314_img_.png,42.8,118.76,119.51,402.99,96.13,0.0001,Standard / Moderate
+315_img_.png,30.44,105.05,111.34,3238.4,83.46,0.0034,Deep Sea (Severe Cast)
+316_img_.png,32.84,126.38,150.78,2099.59,101.19,0.0116,Deep Sea (Severe Cast)
+317_img_.png,21.18,113.71,136.77,1772.65,88.67,0.0115,Deep Sea (Severe Cast)
+318_img_.png,54.99,88.89,89.32,1019.32,78.79,0,Standard / Moderate
+3196.png,32.46,86.47,69.45,54.83,68.39,0.0021,Turbid / High Haze + Deep Sea (Severe Cast)
+319_img_.png,12.81,115.42,121.21,877.1,85.4,0.002,Deep Sea (Severe Cast)
+3202.png,24.01,81.28,81.33,17.68,64.16,0,Turbid / High Haze + Deep Sea (Severe Cast)
+320_img_.png,59.94,103.53,122.55,4794.47,92.67,0.0086,Standard / Moderate
+322_img_.png,15.6,145.69,130.02,1593.09,105,0.0006,Deep Sea (Severe Cast)
+323_img_.png,11.31,69.88,139.54,758.02,60.3,0.0018,Deep Sea (Severe Cast)
+324_img_.png,29.37,88.81,108.69,2747.58,73.3,0.0008,Deep Sea (Severe Cast)
+325_img_.png,15.59,125.25,160.78,1512.2,96.52,0,Deep Sea (Severe Cast)
+326_img_.png,17.58,133.03,152.77,1997.03,100.76,0.0031,Deep Sea (Severe Cast)
+327_img_.png,27.18,91.9,126.48,438.45,76.47,0,Deep Sea (Severe Cast)
+328_img_.png,80.66,135.71,122.13,33,117.7,0.0002,Turbid / High Haze
+32_img_.png,22.09,104.84,129.78,689.79,82.92,0,Deep Sea (Severe Cast)
+330_img_.png,31.64,85.34,108,570.74,71.85,0.0169,Deep Sea (Severe Cast)
+332_img_.png,51.37,60.22,54.01,1059.51,56.86,0.0005,Standard / Moderate
+3330.png,13.97,76.86,133.52,12.48,64.52,0,Turbid / High Haze + Deep Sea (Severe Cast)
+334_img_.png,36.41,142.5,162.02,2289.65,113,0.0064,Deep Sea (Severe Cast)
+336_img_.png,79.27,118.44,132.01,2353.04,108.27,0.0675,Shallow (Sunlit / Caustics)
+337_img_.png,23.71,78.07,86.59,831.84,62.77,0.0002,Deep Sea (Severe Cast)
+338_img_.png,52.92,72.38,43.7,1023.69,63.28,0.0084,Standard / Moderate
+340_img_.png,25.35,96.52,130.61,407.08,79.13,0.0009,Deep Sea (Severe Cast)
+341_img_.png,23.44,94.26,104.29,978.73,74.22,0.0024,Deep Sea (Severe Cast)
+342_img_.png,7.47,124.98,138.65,200.62,91.42,0,Deep Sea (Severe Cast)
+343_img_.png,52.98,110.42,143.56,861.94,97.03,0,Standard / Moderate
+345_img_.png,2.19,115.44,178.57,90.29,88.73,0.0008,Turbid / High Haze + Deep Sea (Severe Cast)
+346_img_.png,86.06,103.17,103.39,3047.51,98.07,0.0002,Standard / Moderate
+347_img_.png,69.4,119.59,118.06,850.75,104.41,0.0016,Standard / Moderate
+348_img_.png,4.38,148.4,132.59,306.94,103.54,0,Deep Sea (Severe Cast)
+35.png,95.93,128.35,120.18,332.85,117.73,0.0202,Shallow (Sunlit / Caustics)
+350_img_.png,41.89,119.34,122.32,1695.77,96.51,0.0004,Standard / Moderate
+351_img_.png,48.6,84.61,94.74,3317.58,74.99,0.0019,Standard / Moderate
+353_img_.png,56.28,106.96,109.01,875.34,92.03,0.0001,Standard / Moderate
+355_img_.png,36.4,84.27,99.12,122,71.63,0,Deep Sea (Severe Cast)
+356_img_.png,11.63,154.54,177.41,1267.96,114.42,0.0091,Deep Sea (Severe Cast)
+359_img_.png,8.52,88.84,148.4,1440.76,71.61,0.0049,Deep Sea (Severe Cast)
+360_img_.png,7.52,104.92,148.72,124.52,80.79,0,Deep Sea (Severe Cast)
+361_img_.png,16,85.8,80.19,207.41,64.28,0.0013,Deep Sea (Severe Cast)
+362_img_.png,3.79,73.6,133.67,165.11,59.57,0,Deep Sea (Severe Cast)
+363_img_.png,4.4,56.16,108.41,311.64,46.62,0.0002,Low Illumination + Deep Sea (Severe Cast)
+364_img_.png,13,83.59,151.66,164.2,70.24,0.0002,Deep Sea (Severe Cast)
+3650.png,97.65,95.17,84.33,46.84,94.68,0.0008,Turbid / High Haze
+365_img_.png,10.17,97.73,121.88,2764.41,74.31,0.0003,Deep Sea (Severe Cast)
+366_img_.png,55.39,94.45,86.41,1702.79,81.86,0.0264,Shallow (Sunlit / Caustics)
+367_img_.png,20.43,147.21,142.61,1976.36,108.78,0,Deep Sea (Severe Cast)
+369_img_.png,49.76,86.31,103.07,79.68,77.29,0.0046,Turbid / High Haze
+370_img_.png,61.9,81.38,84.82,106.06,75.94,0.005,Standard / Moderate
+371_img_.png,44.37,74.33,102.46,15.92,68.57,0,Turbid / High Haze
+3728.png,102.08,115.9,108.75,66.85,110.96,0.0028,Turbid / High Haze
+372_img_.png,83.34,119.81,135.68,18.01,110.71,0,Turbid / High Haze
+373_img_.png,14.46,84.6,127,79.65,68.47,0,Turbid / High Haze + Deep Sea (Severe Cast)
+374_img_.png,9.84,83.74,131.58,19.09,67.09,0,Turbid / High Haze + Deep Sea (Severe Cast)
+375_img_.png,91.87,100.97,118.64,88.24,100.25,0.0076,Turbid / High Haze
+376_img_.png,95.48,113.38,119.36,109.04,108.71,0.013,Standard / Moderate
+377_img_.png,80.15,114.38,139.84,40.98,107.04,0.0028,Turbid / High Haze
+378_img_.png,120.33,121.17,122.51,226.31,121.07,0.0536,Shallow (Sunlit / Caustics)
+379_img_.png,105.5,114.44,139.45,25.21,114.61,0.013,Turbid / High Haze
+37_img_.png,91.95,119.52,88.99,599.84,107.8,0.0217,Shallow (Sunlit / Caustics)
+380_img_.png,46.98,185.56,142.22,15.59,139.2,0,Turbid / High Haze
+381_img_.png,9.25,166.83,200.71,345.46,123.58,0,Deep Sea (Severe Cast)
+382_img_.png,45.93,162.79,171.44,140.63,128.87,0,Standard / Moderate
+383_img_.png,95.54,137.7,85.91,24.97,119.17,0.0001,Turbid / High Haze
+384_img_.png,44.9,160.67,192.85,101.27,129.74,0.0322,Shallow (Sunlit / Caustics)
+385_img_.png,43.28,73.67,74.62,168.69,64.68,0.0019,Standard / Moderate
+386_img_.png,114.78,149.03,131.89,287.11,136.82,0.0202,Shallow (Sunlit / Caustics)
+387_img_.png,42.1,58.5,61.55,103.87,53.94,0,Standard / Moderate
+389_img_.png,41.91,103.93,128.5,145.96,88.18,0.0002,Standard / Moderate
+391_img_.png,5.33,136.89,182.2,42.81,102.71,0,Turbid / High Haze + Deep Sea (Severe Cast)
+3925.png,123.73,136.52,129.36,31.77,131.88,0,Turbid / High Haze
+392_img_.png,4.31,81.68,100.4,81.47,60.67,0,Turbid / High Haze + Deep Sea (Severe Cast)
+393_img_.png,51.8,167.12,190.69,64.29,135.35,0.011,Turbid / High Haze
+3947.png,95.94,123.89,115.43,32.47,114.57,0.0014,Turbid / High Haze
+394_img_.png,52.72,129.1,131.47,362.48,106.53,0.0015,Standard / Moderate
+395_img_.png,55.19,95.06,105.83,859,84.36,0.0066,Standard / Moderate
+39_img_.png,41.06,103.4,124.33,3951.77,87.14,0.0082,Standard / Moderate
+3_img_.png,94.14,106.86,142.4,3250.95,107.1,0.0098,Standard / Moderate
+4.png,76.32,103.09,121.27,120.67,97.15,0.0333,Shallow (Sunlit / Caustics)
+400_img_.png,10.56,49.26,53.65,630.1,38.17,0.0047,Low Illumination
+401_img_.png,7.42,67.56,75.42,187.49,50.47,0.0001,Standard / Moderate
+402_img_.png,24.5,118.99,143.76,99.07,93.56,0,Turbid / High Haze + Deep Sea (Severe Cast)
+403_img_.png,16.56,136.87,192.02,483.12,107.19,0.0036,Deep Sea (Severe Cast)
+404_img_.png,35.89,126.76,127.93,251.45,99.73,0.0048,Deep Sea (Severe Cast)
+405_img_.png,2.97,149.02,167.68,16.06,107.48,0,Turbid / High Haze + Deep Sea (Severe Cast)
+406_img_.png,26.69,182.45,190.96,48.07,136.86,0,Turbid / High Haze + Deep Sea (Severe Cast)
+4070.png,60.38,89.73,87.51,20.01,80.7,0,Turbid / High Haze
+407_img_.png,3.49,134.62,152.27,20.07,97.41,0,Turbid / High Haze + Deep Sea (Severe Cast)
+408_img_.png,53.49,132.32,107.35,306.6,105.91,0.0002,Standard / Moderate
+409_img_.png,43.73,117.25,132,1166.14,96.95,0.0062,Standard / Moderate
+410_img_.png,27.93,56.31,69.36,477.71,49.31,0.0034,Low Illumination
+411_img_.png,30.39,116.47,150.11,2079.49,94.56,0.0053,Deep Sea (Severe Cast)
+412_img_.png,59,148.01,152.12,421.28,121.85,0.0022,Standard / Moderate
+413_img_.png,32.04,77.15,78.88,2391.78,63.86,0.0023,Standard / Moderate
+415_img_.png,114.39,160.98,160.61,2035.5,147,0.0063,Standard / Moderate
+416_img_.png,35.57,111.42,144.2,289.21,92.47,0.0014,Deep Sea (Severe Cast)
+417_img_.png,19.98,119.6,156.07,126.99,93.99,0,Deep Sea (Severe Cast)
+418_img_.png,6.64,100.54,115.9,622.68,74.21,0.0009,Deep Sea (Severe Cast)
+419_img_.png,4.01,85.35,165.15,80.5,70.12,0,Turbid / High Haze + Deep Sea (Severe Cast)
+41_img_.png,61.33,137.69,125.51,543.84,113.46,0.0044,Standard / Moderate
+420_img_.png,4.27,98.96,168.17,334.93,78.54,0.0001,Deep Sea (Severe Cast)
+421_img_.png,30.54,81.56,121.96,1346.5,70.91,0.0058,Deep Sea (Severe Cast)
+422_img_.png,36.56,104.01,126.18,220.72,86.36,0.0132,Deep Sea (Severe Cast)
+423_img_.png,11.92,113.78,180,706.11,90.87,0.0013,Deep Sea (Severe Cast)
+424_img_.png,81.65,125.84,169.2,4075.27,117.55,0.0112,Standard / Moderate
+425_img_.png,34.78,137.31,195.75,146.91,113.32,0,Deep Sea (Severe Cast)
+428_img_.png,51.8,116.74,148.55,221.83,100.95,0.0113,Standard / Moderate
+429_img_.png,44.35,139.89,167.15,54.27,114.43,0,Turbid / High Haze
+42_img_.png,31.62,65.53,57.56,857.07,54.47,0.0027,Standard / Moderate
+432_img_.png,83.15,138.03,135.89,17.47,121.37,0.0004,Turbid / High Haze
+433_img_.png,50.69,149.28,115.56,495.6,115.95,0,Standard / Moderate
+435_img_.png,30.22,67.54,131.05,78.32,63.61,0.0001,Turbid / High Haze + Deep Sea (Severe Cast)
+436_img_.png,100.29,146.71,97.04,168.09,127.16,0.0242,Shallow (Sunlit / Caustics)
+437_img_.png,59.48,157.78,152.56,45,127.8,0,Turbid / High Haze
+438_img_.png,48.16,172.67,176.58,41.29,135.9,0.0205,Turbid / High Haze + Shallow (Sunlit / Caustics)
+439_img_.png,17.85,80.31,97.58,23.8,63.56,0.0001,Turbid / High Haze + Deep Sea (Severe Cast)
+43_img_.png,43.25,123.42,138.54,1928.84,101.17,0.0086,Standard / Moderate
+440_img_.png,41,177.59,170.32,16.41,135.95,0.0181,Turbid / High Haze
+441_img_.png,36.28,155.88,104.56,61.17,114.29,0,Turbid / High Haze + Deep Sea (Severe Cast)
+442_img_.png,64.02,159.72,131.86,723.66,127.92,0,Standard / Moderate
+443_img_.png,65.44,141.61,117.12,477.71,116.03,0.0105,Standard / Moderate
+444_img_.png,112.16,163.43,123.51,55.67,143.55,0.0009,Turbid / High Haze
+445_img_.png,63.47,147.55,186.81,172.65,126.91,0.0071,Standard / Moderate
+446_img_.png,14.65,126.19,170.86,165.13,97.95,0,Deep Sea (Severe Cast)
+447_img_.png,61.34,138.34,136.53,56.95,115.1,0.0004,Turbid / High Haze
+448_img_.png,43.78,101.21,130.39,1415.84,87.35,0.0123,Standard / Moderate
+449_img_.png,60.73,131.94,186.78,735.9,116.9,0.0232,Shallow (Sunlit / Caustics)
+44_img_.png,30.9,112.55,144.72,1251.46,91.8,0.0026,Deep Sea (Severe Cast)
+450_img_.png,72.72,123.89,135.03,356.78,109.87,0.0166,Standard / Moderate
+451_img_.png,81.06,119.65,141.4,284.3,110.58,0.028,Shallow (Sunlit / Caustics)
+452_img_.png,46.28,85.55,105.97,6274.77,76.13,0.0011,Standard / Moderate
+453_img_.png,104.16,126.64,143.91,101.25,121.88,0.0162,Standard / Moderate
+454_img_.png,21.13,43.53,37.55,4.47,36.15,0,Low Illumination + Turbid / High Haze
+455_img_.png,34.31,52.35,71.64,41.05,49.17,0,Low Illumination + Turbid / High Haze
+457_img_.png,108.77,135.36,140.68,155.84,128.01,0.0533,Shallow (Sunlit / Caustics)
+458_img_.png,60.29,136.08,134.77,91.45,113.27,0.0019,Turbid / High Haze
+459_img_.png,50.68,142.48,88.41,945.48,108.86,0.0207,Shallow (Sunlit / Caustics)
+45_img_.png,32.14,132.26,136.78,20.77,102.86,0,Turbid / High Haze + Deep Sea (Severe Cast)
+460_img_.png,49.34,118.97,107.67,1760.57,96.86,0.0102,Standard / Moderate
+461_img_.png,28.18,100.16,137.3,132.06,82.87,0.0102,Deep Sea (Severe Cast)
+462_img_.png,57.38,108.67,124.07,58.07,95.08,0.012,Turbid / High Haze
+463_img_.png,87.8,103.13,108.54,2060.68,99.15,0.0029,Standard / Moderate
+464_img_.png,71.25,97.29,96.69,992.14,89.43,0.0326,Shallow (Sunlit / Caustics)
+465_img_.png,74.19,111.84,152,818.99,105.15,0.0121,Standard / Moderate
+466_img_.png,18.97,155.73,193.74,1623.17,119.17,0,Deep Sea (Severe Cast)
+467_img_.png,60.22,142.4,142.21,122.34,117.81,0.0026,Standard / Moderate
+468_img_.png,34.02,97.47,131.22,1858.75,82.34,0.0007,Deep Sea (Severe Cast)
+469_img_.png,151.03,206.39,214.3,31.45,190.73,0.0261,Turbid / High Haze + Shallow (Sunlit / Caustics)
+46_img_.png,16.83,92.03,112.89,268.74,71.91,0.0079,Deep Sea (Severe Cast)
+470_img_.png,14,157.94,125.15,9.13,111.18,0,Turbid / High Haze + Deep Sea (Severe Cast)
+471_img_.png,160.92,146.2,70.68,54.78,142,0,Turbid / High Haze
+472_img_.png,48.94,87.14,121.45,184.93,79.59,0,Standard / Moderate
+473_img_.png,23.54,108.66,113.7,97.39,83.78,0.0176,Turbid / High Haze + Deep Sea (Severe Cast)
+476_img_.png,115.55,131.42,107.08,96.16,123.9,0.0008,Turbid / High Haze
+477_img_.png,52.43,121.68,112.18,146.67,99.88,0,Standard / Moderate
+478_img_.png,38.22,129.03,122.13,209.17,101.08,0.0005,Deep Sea (Severe Cast)
+479_img_.png,181.81,212.31,208.96,10.65,202.81,0.1368,Turbid / High Haze + Shallow (Sunlit / Caustics)
+480_img_.png,25.1,134.73,139.28,17.76,102.49,0.0002,Turbid / High Haze + Deep Sea (Severe Cast)
+481_img_.png,49.69,177.57,171.14,280.75,138.62,0,Standard / Moderate
+482_img_.png,69.63,144.1,117,1678.55,118.74,0.0453,Shallow (Sunlit / Caustics)
+483_img_.png,59.49,99.67,131.85,2371.79,91.32,0.0158,Standard / Moderate
+484_img_.png,87.93,157.66,138.53,1741.65,134.61,0.0143,Standard / Moderate
+485_img_.png,69.48,107.13,144.73,24.84,100.13,0,Turbid / High Haze
+486_img_.png,40.36,133.28,124.49,49.49,104.5,0,Turbid / High Haze
+487_img_.png,13.11,77.87,92.99,271.37,60.24,0,Deep Sea (Severe Cast)
+488_img_.png,25.11,86.43,101.43,309.9,69.8,0.0015,Deep Sea (Severe Cast)
+489_img_.png,26.96,123.1,120.51,64.78,94.05,0.0008,Turbid / High Haze + Deep Sea (Severe Cast)
+48_img_.png,103.19,138.92,172.3,621.51,132.01,0.0488,Shallow (Sunlit / Caustics)
+490_img_.png,19.99,161.74,184.45,585.12,121.95,0.0046,Deep Sea (Severe Cast)
+491_img_.png,70.82,98.18,117.48,279.83,92.21,0.0017,Standard / Moderate
+492_img_.png,48.55,118.66,108.99,155.11,96.57,0,Standard / Moderate
+493_img_.png,88.96,116.25,137.17,116.58,110.48,0.0005,Standard / Moderate
+494_img_.png,97.79,108.4,129.89,61.91,107.68,0.0003,Turbid / High Haze
+495_img_.png,58.82,125.31,72.02,121.34,99.34,0,Standard / Moderate
+496_img_.png,22.61,144.7,138.66,814.16,107.5,0.0037,Deep Sea (Severe Cast)
+497_img_.png,68.98,130.18,110.22,1409.88,109.59,0.0184,Standard / Moderate
+498_img_.png,5.68,116.01,163.66,304.7,88.43,0,Deep Sea (Severe Cast)
+499_img_.png,7.81,107.95,148.04,499,82.56,0.0011,Deep Sea (Severe Cast)
+49_img_.png,18.26,94.74,132.4,921.26,76.16,0.002,Deep Sea (Severe Cast)
+4_img_.png,86.52,105.72,103.58,970.99,99.74,0.0164,Standard / Moderate
+501_img_.png,80.69,177.07,165.5,70.49,146.94,0.0037,Turbid / High Haze
+502_img_.png,114.06,120.03,138.41,53.14,120.34,0.0208,Turbid / High Haze + Shallow (Sunlit / Caustics)
+503_img_.png,82.68,107.16,141.75,55.55,103.78,0.0012,Turbid / High Haze
+504_img_.png,60.03,115.32,132.68,49.29,100.75,0.0004,Turbid / High Haze
+505_img_.png,71.18,112.83,147.99,26.13,104.35,0.0001,Turbid / High Haze
+506_img_.png,41.74,103.02,117.83,730.01,86.38,0.0261,Shallow (Sunlit / Caustics)
+507_img_.png,99.66,137.01,175.67,423.26,130.28,0.0251,Shallow (Sunlit / Caustics)
+508_img_.png,113.9,113.25,109.69,110.03,113.03,0.0007,Standard / Moderate
+509_img_.png,109.67,123.93,134.8,138.37,120.91,0.006,Standard / Moderate
+50_img_.png,34.68,97.74,86.52,164.39,77.58,0.0018,Deep Sea (Severe Cast)
+510_img_.png,20.38,135.17,122.32,121.24,99.38,0,Deep Sea (Severe Cast)
+511_img_.png,62.96,127.35,178.18,469.3,113.89,0.0088,Standard / Moderate
+512_img_.png,86.8,114.14,124.22,1951.61,107.12,0.0045,Standard / Moderate
+513_img_.png,132.69,157.46,154.23,1821.74,149.68,0.1207,Shallow (Sunlit / Caustics)
+515_img_.png,44.73,129.11,78.9,18.92,98.14,0,Turbid / High Haze
+516_img_.png,81.33,147.72,119.87,607.64,124.69,0.0024,Standard / Moderate
+517_img_.png,68.59,109.89,108.98,2532.52,97.44,0.0179,Standard / Moderate
+518_img_.png,9.48,177.5,204.12,96.82,130.3,0,Turbid / High Haze + Deep Sea (Severe Cast)
+519_img_.png,4.3,120.79,168.93,109.99,91.44,0,Deep Sea (Severe Cast)
+51_img_.png,48.35,107.42,84.47,264.67,87.13,0.0032,Standard / Moderate
+524_img_.png,24.91,131.82,168.42,2154.62,104.03,0.0502,Shallow (Sunlit / Caustics)
+526_img_.png,11.51,180.3,190.83,300.72,131.04,0,Deep Sea (Severe Cast)
+527_img_.png,62.25,177.3,151.01,526.33,139.91,0.0002,Standard / Moderate
+528_img_.png,7.21,164.83,171.67,251.39,118.48,0,Deep Sea (Severe Cast)
+52_img_.png,78.47,118.18,84.28,312.62,102.44,0.0058,Standard / Moderate
+530_img_.png,44.42,95.41,116.81,116.5,82.6,0,Standard / Moderate
+531_img_.png,126.06,136.1,155.17,17.58,135.28,0.0967,Turbid / High Haze + Shallow (Sunlit / Caustics)
+532_img_.png,50.03,102.87,55.51,189.63,81.65,0.0009,Standard / Moderate
+533_img_.png,54.03,82.74,37.96,108.33,69.04,0,Standard / Moderate
+534_img_.png,147.84,141.08,77.31,91.42,135.87,0,Turbid / High Haze
+535_img_.png,47.97,140.25,92.28,176.52,107.17,0.0291,Shallow (Sunlit / Caustics)
+536_img_.png,56.65,111.94,107.14,603.34,94.85,0.0034,Standard / Moderate
+537_img_.png,51.06,114.27,108.64,502.3,94.72,0.0029,Standard / Moderate
+538_img_.png,24.21,125.37,115.75,185.8,94.03,0,Deep Sea (Severe Cast)
+539.png,31.93,115.93,92.31,85.8,88.12,0,Turbid / High Haze + Deep Sea (Severe Cast)
+539_img_.png,31.52,112.54,97.82,966.32,86.63,0.0009,Deep Sea (Severe Cast)
+53_img_.png,45.39,54.16,39.93,307.53,49.92,0.0004,Low Illumination
+540_img_.png,23.49,117.11,97.54,143.2,86.88,0,Deep Sea (Severe Cast)
+541_img_.png,16.6,121.14,108.81,120.26,88.48,0.0003,Deep Sea (Severe Cast)
+542_img_.png,22.42,99.2,84.78,334.07,74.58,0.0001,Deep Sea (Severe Cast)
+543_img_.png,21.29,138.84,124.54,198.55,102.07,0.0002,Deep Sea (Severe Cast)
+544_img_.png,0.99,134.91,136.6,5.88,95.05,0,Turbid / High Haze + Deep Sea (Severe Cast)
+545_img_.png,1.01,130.86,134.29,5.7,92.41,0,Turbid / High Haze + Deep Sea (Severe Cast)
+546_img_.png,16.41,130.29,127.21,428.91,95.89,0.0001,Deep Sea (Severe Cast)
+547_img_.png,54.72,108.44,129.33,180.64,94.74,0.0014,Standard / Moderate
+549_img_.png,3.48,134.61,150.36,23.73,97.19,0,Turbid / High Haze + Deep Sea (Severe Cast)
+550_img_.png,10.14,122.27,132.04,190.5,89.85,0,Deep Sea (Severe Cast)
+551_img_.png,26.03,111.43,96.62,326.91,84.2,0,Deep Sea (Severe Cast)
+552_img_.png,34.03,136.87,135.93,126,106.02,0.0014,Deep Sea (Severe Cast)
+554_img_.png,65.47,139.02,131.43,318.16,116.16,0.0096,Standard / Moderate
+5554.png,92.55,165.97,115.15,15.69,138.21,0.0013,Turbid / High Haze
+555_img_.png,38.42,110.85,108.64,219.66,88.93,0.0152,Deep Sea (Severe Cast)
+556_img_.png,35.64,118.34,123.8,162.04,94.23,0.0363,Shallow (Sunlit / Caustics)
+557.png,57.97,60.09,47.21,48.99,57.98,0,Turbid / High Haze
+557_img_.png,15.54,117.57,126.13,241.02,88.03,0.0005,Deep Sea (Severe Cast)
+558_img_.png,10.14,122.27,132.04,190.5,89.85,0,Deep Sea (Severe Cast)
+559.png,53.09,59.41,49.34,56.33,56.37,0,Turbid / High Haze
+55_img_.png,95.24,117.7,84.49,766.8,107.19,0.013,Standard / Moderate
+560_img_.png,30.45,124.12,122.63,320.84,95.94,0.0004,Deep Sea (Severe Cast)
+561_img_.png,11.51,124.77,128.68,283.26,91.36,0.0001,Deep Sea (Severe Cast)
+562_img_.png,24.31,137.44,141.54,89.32,104.07,0.0079,Turbid / High Haze + Deep Sea (Severe Cast)
+563.png,73.07,90.84,90.76,24.74,85.51,0,Turbid / High Haze
+563_img_.png,1.66,126.46,127.22,9.5,89.22,0,Turbid / High Haze + Deep Sea (Severe Cast)
+564_img_.png,1.56,118.95,134.74,15.4,85.64,0,Turbid / High Haze + Deep Sea (Severe Cast)
+566_img_.png,126.34,137.17,139.4,70.77,134.19,0.0056,Turbid / High Haze
+567.png,70.4,77.92,71.24,17.61,74.92,0,Turbid / High Haze
+567_img_.png,75.1,120.25,87.29,2.65,102.96,0,Turbid / High Haze
+568_img_.png,76.07,120.96,88.63,2.21,103.84,0,Turbid / High Haze
+569_img_.png,21.07,129.27,99.99,23.31,93.58,0,Turbid / High Haze + Deep Sea (Severe Cast)
+56_img_.png,33.55,102.86,85.17,168.29,80.11,0.0006,Deep Sea (Severe Cast)
+570_img_.png,71.77,119.32,56.89,65.87,97.97,0,Turbid / High Haze
+571_img_.png,67.07,116.67,57.19,65.53,95.05,0,Turbid / High Haze
+572_img_.png,129.43,130.87,125.68,168.39,129.85,0.0079,Standard / Moderate
+573_img_.png,83.9,118.47,94.29,5.14,105.36,0,Turbid / High Haze
+574_img_.png,18.42,131.82,94.48,6.49,93.65,0,Turbid / High Haze + Deep Sea (Severe Cast)
+575_img_.png,44.28,121.1,75.21,35.05,92.88,0,Turbid / High Haze
+576_img_.png,74.39,121.97,75.31,51.34,102.4,0,Turbid / High Haze
+577_img_.png,20.32,131.06,84.3,9.01,92.6,0,Turbid / High Haze + Deep Sea (Severe Cast)
+578_img_.png,41.38,124.59,97.11,70.65,96.58,0,Turbid / High Haze
+579_img_.png,43.2,131.73,93.22,15.67,100.86,0,Turbid / High Haze
+57_img_.png,71.65,133.1,65.34,354.03,106.98,0,Standard / Moderate
+580_img_.png,29.65,126.09,94.1,8.09,93.59,0,Turbid / High Haze + Deep Sea (Severe Cast)
+5818.png,93.14,186.11,144.15,4.93,153.52,0.0001,Turbid / High Haze
+581_img_.png,80.91,144.82,115.84,26.09,122.39,0.0036,Turbid / High Haze
+582_img_.png,71.89,114.84,121.54,165.46,102.76,0.0019,Standard / Moderate
+5830.png,84.25,186.05,148.72,3.61,151.38,0,Turbid / High Haze
+583_img_.png,51.04,115.02,119.37,1270.37,96.39,0.0003,Standard / Moderate
+584_img_.png,83.42,135.84,97.16,48.46,115.74,0.0029,Turbid / High Haze
+585_img_.png,95.68,130.92,90.46,248.47,115.76,0.0011,Standard / Moderate
+586_img_.png,36.59,61.48,42.34,101,51.86,0,Standard / Moderate
+587_img_.png,83.86,145.56,114.15,267.99,123.51,0.0016,Standard / Moderate
+588_img_.png,96.53,154.79,117,254.43,133.04,0.0082,Standard / Moderate
+589_img_.png,94.72,163.66,144.02,49.31,140.79,0.0019,Turbid / High Haze
+58_img_.png,70.83,126.95,99.24,348.83,107.01,0.0058,Standard / Moderate
+590_img_.png,97.17,163.67,134.78,110.81,140.48,0.0178,Standard / Moderate
+591_img_.png,81.92,135.82,99.56,152.23,115.54,0.0047,Standard / Moderate
+592_img_.png,79.39,162.51,137.7,36.51,134.82,0,Turbid / High Haze
+593_img_.png,88.7,163.15,129.01,250.04,136.98,0.0131,Standard / Moderate
+594_img_.png,88.72,145.38,108.16,360.06,124.18,0.0055,Standard / Moderate
+595_img_.png,94.5,162.15,119.88,253.31,137.08,0.017,Standard / Moderate
+596_img_.png,89.35,156.05,121.8,211.45,132.17,0.0021,Standard / Moderate
+597_img_.png,78.29,164.08,124.47,128.38,133.89,0.0039,Standard / Moderate
+598.png,48.74,85.31,73.41,54.28,73.01,0,Turbid / High Haze
+598_img_.png,92.17,162.68,126.74,123.8,137.48,0.0187,Standard / Moderate
+599_img_.png,96.64,149.32,118.54,152,130.06,0.002,Standard / Moderate
+59_img_.png,98.12,124.22,113.08,580.97,115.15,0.047,Shallow (Sunlit / Caustics)
+600_img_.png,109.9,156.89,116.81,243.3,138.26,0.0001,Standard / Moderate
+601_img_.png,108.73,150.71,119.18,229.73,134.55,0.0011,Standard / Moderate
+602_img_.png,92.65,158.83,122.25,180.34,134.87,0.0021,Standard / Moderate
+603_img_.png,92.57,147.21,110.97,283.01,126.72,0.0124,Standard / Moderate
+604_img_.png,81.81,144.68,109.5,185.49,121.85,0,Standard / Moderate
+605_img_.png,85.98,151.74,118.63,354.42,128.29,0.0001,Standard / Moderate
+6062.png,139.13,174.73,101.72,16.29,155.77,0.0001,Turbid / High Haze
+606_img_.png,90.61,154.51,125.17,325.06,132.05,0.0003,Standard / Moderate
+607_img_.png,55.85,150.5,116.98,19.12,118.39,0,Turbid / High Haze
+6082.png,91.87,181.71,134,17.84,149.42,0.0028,Turbid / High Haze
+608_img_.png,75.59,161.75,143.98,42.23,133.96,0,Turbid / High Haze
+609_img_.png,88.72,155.5,118.98,212.82,131.36,0.0011,Standard / Moderate
+60_img_.png,98.69,104.75,85.18,1884.03,100.7,0.0381,Shallow (Sunlit / Caustics)
+610_img_.png,72.88,105.8,115.63,455.44,97.07,0.005,Standard / Moderate
+611_img_.png,57.23,107.64,121.08,1948.09,94.08,0.0006,Standard / Moderate
+612_img_.png,90.72,151.73,116.17,105.95,129.42,0.0003,Standard / Moderate
+613_img_.png,85.32,158.01,128.8,129.65,132.93,0,Standard / Moderate
+614_img_.png,93.25,164.66,132.73,185.23,139.65,0.0039,Standard / Moderate
+615_img_.png,97.96,164.3,133.04,67.18,140.88,0.0236,Turbid / High Haze + Shallow (Sunlit / Caustics)
+616_img_.png,76.04,139.98,103,84.3,116.63,0,Turbid / High Haze
+617_img_.png,88.78,155.06,136.84,195.27,133.16,0,Standard / Moderate
+618_img_.png,91.66,150.08,111.82,158.16,128.23,0,Standard / Moderate
+619_img_.png,109.38,159.86,140.23,6.17,142.5,0,Turbid / High Haze
+61_img_.png,10.02,154.53,177.56,729.58,113.94,0.01,Deep Sea (Severe Cast)
+620_img_.png,83.86,123.1,94.41,19.84,108.08,0,Turbid / High Haze
+621_img_.png,98.63,139.02,112.01,94.08,123.86,0.0123,Turbid / High Haze
+622_img_.png,89.55,174.18,173.42,2509.84,148.78,0.1064,Shallow (Sunlit / Caustics)
+623_img_.png,109.52,141.39,110.44,129.97,128.31,0.0131,Standard / Moderate
+625_img_.png,126.82,156.37,116.49,98.53,142.98,0.0881,Turbid / High Haze + Shallow (Sunlit / Caustics)
+626_img_.png,114.81,145.08,101.33,151.51,131.03,0.0052,Standard / Moderate
+627_img_.png,87.32,162.97,136.4,25.85,137.31,0,Turbid / High Haze
+628_img_.png,89.65,149,114.74,247.09,127.33,0.0123,Standard / Moderate
+629_img_.png,115.09,145.71,116.37,305.29,133.19,0.0044,Standard / Moderate
+62_img_.png,188.28,203.2,202.78,21.35,198.69,0.075,Turbid / High Haze + Shallow (Sunlit / Caustics)
+630_img_.png,83.52,156.58,122.42,197.19,130.82,0.0035,Standard / Moderate
+631_img_.png,92.45,148.01,113.39,772.38,127.44,0.0114,Standard / Moderate
+632_img_.png,75.19,92.12,129.43,500.97,91.29,0.0125,Standard / Moderate
+633_img_.png,94.27,160.9,129.18,181.83,137.34,0,Standard / Moderate
+634_img_.png,66.04,145.38,114.47,57.09,118.12,0,Turbid / High Haze
+635_img_.png,65.41,151.19,126.85,42.41,122.77,0,Turbid / High Haze
+636_img_.png,93,148.38,108.67,317.16,127.28,0.0092,Standard / Moderate
+637_img_.png,88.3,141.59,104.4,315.81,121.42,0.0011,Standard / Moderate
+638_img_.png,93.11,161.72,140.22,42.76,138.72,0,Turbid / High Haze
+639_img_.png,98,127.47,87.92,133.5,114.15,0,Standard / Moderate
+63_img_.png,40.59,83.68,103.19,1317.1,73.03,0.0002,Standard / Moderate
+640_img_.png,80.67,163.62,133.56,42.12,135.35,0.0007,Turbid / High Haze
+641_img_.png,82.46,152.78,131.74,36.44,129.34,0,Turbid / High Haze
+642_img_.png,95.14,162.92,121.51,137.92,137.91,0,Standard / Moderate
+645_img_.png,59.8,136.16,114.74,259.57,110.89,0.0063,Standard / Moderate
+646_img_.png,56.09,125.02,107.15,286.85,102.37,0.0061,Standard / Moderate
+647_img_.png,78.66,112.96,120.72,71.1,103.6,0.0033,Turbid / High Haze
+648_img_.png,71.89,114.84,121.54,165.46,102.76,0.0019,Standard / Moderate
+649_img_.png,72.54,119.24,82.4,398.73,101.07,0.0055,Standard / Moderate
+64_img_.png,80.95,139.02,141.31,462.59,121.92,0.0248,Shallow (Sunlit / Caustics)
+650_img_.png,2.13,74.15,95.48,129.93,55.03,0.001,Deep Sea (Severe Cast)
+651.png,71.67,98.01,89.07,122.89,89.12,0.0134,Standard / Moderate
+651_img_.png,32.76,73.58,103.38,1700.66,64.74,0.0079,Deep Sea (Severe Cast)
+652_img_.png,35.88,138.01,129.31,292.91,106.48,0.0014,Deep Sea (Severe Cast)
+653_img_.png,55.17,131.6,115.23,933.41,106.88,0.0026,Standard / Moderate
+654_img_.png,4.69,135.54,137.76,21.06,96.67,0,Turbid / High Haze + Deep Sea (Severe Cast)
+655_img_.png,6.86,142.81,161.71,104.22,104.32,0.0012,Deep Sea (Severe Cast)
+656_img_.png,105.93,204.99,163.25,18.05,170.65,0.0079,Turbid / High Haze
+657_img_.png,44.58,137.9,128.78,350.58,108.95,0.0125,Standard / Moderate
+658_img_.png,53.69,171.19,103.67,26.48,128.36,0.0001,Turbid / High Haze
+659_img_.png,4.53,140.6,170.03,88.2,103.27,0,Turbid / High Haze + Deep Sea (Severe Cast)
+65_img_.png,79.81,117.46,142.74,3043.91,109.08,0.0172,Standard / Moderate
+660_img_.png,122.76,177.99,181.85,29.33,161.9,0.0558,Turbid / High Haze + Shallow (Sunlit / Caustics)
+661_img_.png,103.38,112.33,141.84,351.44,113.02,0.1203,Shallow (Sunlit / Caustics)
+662_img_.png,40.89,110.62,108.9,60.07,89.59,0,Turbid / High Haze
+663_img_.png,3.78,109.81,84.51,29.44,75.21,0,Turbid / High Haze + Deep Sea (Severe Cast)
+666_img_.png,15.77,74.36,98.03,23.33,59.52,0,Turbid / High Haze + Deep Sea (Severe Cast)
+668_img_.png,15.61,127.22,152.03,15.08,96.68,0,Turbid / High Haze + Deep Sea (Severe Cast)
+670_img_.png,9.67,93.62,107.23,20.6,70.05,0,Turbid / High Haze + Deep Sea (Severe Cast)
+672_img_.png,12.79,97.81,113.33,77.03,74.16,0,Turbid / High Haze + Deep Sea (Severe Cast)
+673_img_.png,56.92,117.57,131.18,258.31,100.99,0.0647,Shallow (Sunlit / Caustics)
+674_img_.png,77.83,125.08,139.6,345.54,112.61,0.0123,Standard / Moderate
+675_img_.png,81.28,119.72,154.02,295.25,112.13,0.0116,Standard / Moderate
+676_img_.png,55,90.65,112.72,2505.77,82.5,0.016,Standard / Moderate
+677_img_.png,99.08,123.28,143.37,1236.32,118.33,0.0412,Shallow (Sunlit / Caustics)
+6788.png,4.51,159.4,176.14,39.59,114.99,0,Turbid / High Haze + Deep Sea (Severe Cast)
+678_img_.png,69.11,135.24,155.53,501.95,117.78,0.0025,Standard / Moderate
+679_img_.png,94.84,126.59,109.99,1752.17,115.21,0.0144,Standard / Moderate
+67_img_.png,61.72,118.36,149.86,2560.48,105.02,0.007,Standard / Moderate
+680_img_.png,121.8,138.36,112.74,2327.21,130.49,0.0699,Shallow (Sunlit / Caustics)
+681_img_.png,121.32,142.81,124.2,1313.35,134.26,0.1356,Shallow (Sunlit / Caustics)
+6820.png,6.86,126.28,158.33,78.79,94.23,0.0027,Turbid / High Haze + Deep Sea (Severe Cast)
+682_img_.png,97.44,124.92,118.02,1909.8,115.91,0.0668,Shallow (Sunlit / Caustics)
+683_img_.png,56.43,124.87,159.75,838.79,108.37,0.0454,Shallow (Sunlit / Caustics)
+684_img_.png,104.99,127.69,134.4,1754.65,121.67,0.021,Shallow (Sunlit / Caustics)
+685_img_.png,16.45,165.84,192.79,27.46,124.25,0,Turbid / High Haze + Deep Sea (Severe Cast)
+686_img_.png,23.71,161.37,198.22,39.05,124.41,0.0005,Turbid / High Haze + Deep Sea (Severe Cast)
+6872.png,1.74,106.03,137.86,18.48,78.47,0,Turbid / High Haze + Deep Sea (Severe Cast)
+687_img_.png,22.68,170.6,225.2,24.34,132.59,0.0014,Turbid / High Haze + Deep Sea (Severe Cast)
+688_img_.png,43.06,144.34,169.01,303.04,116.88,0.0146,Standard / Moderate
+689_img_.png,6.27,129.07,194.25,101.45,99.78,0,Deep Sea (Severe Cast)
+690_img_.png,10.08,51.97,87.9,34.02,43.52,0,Low Illumination + Turbid / High Haze + Deep Sea (Severe Cast)
+691_img_.png,97.41,136.49,157.2,519.85,127.17,0.0139,Standard / Moderate
+692_img_.png,91.6,131.53,124.66,145.79,118.79,0.0169,Standard / Moderate
+694_img_.png,87.19,123.86,136.07,191.95,114.28,0.0874,Shallow (Sunlit / Caustics)
+695_img_.png,47.35,125.39,134.96,167.69,103.14,0.0001,Standard / Moderate
+696_img_.png,46.67,117.85,120.2,145.96,96.83,0,Standard / Moderate
+697_img_.png,42.48,119.2,139.54,97.33,98.58,0,Turbid / High Haze
+698_img_.png,76.33,116.67,134.51,1416.18,106.64,0.0126,Standard / Moderate
+699_img_.png,91.88,134.69,150.73,444.35,123.7,0.0499,Shallow (Sunlit / Caustics)
+6_img_.png,45.58,146.73,162.25,165.36,118.27,0.0059,Standard / Moderate
+700_img_.png,63.87,90.85,93.13,1038.96,83.03,0.0122,Standard / Moderate
+701_img_.png,3.04,155.99,147.78,36.03,109.31,0.0002,Turbid / High Haze + Deep Sea (Severe Cast)
+7027.png,2.43,131.49,159.01,39.71,96.04,0,Turbid / High Haze + Deep Sea (Severe Cast)
+702_img_.png,69.63,154.8,159.53,34.81,129.88,0,Turbid / High Haze
+703_img_.png,52.74,154.66,171.44,27.19,126.1,0,Turbid / High Haze
+704_img_.png,41.57,163.61,173.91,125.32,128.31,0,Standard / Moderate
+705_img_.png,114.08,147.48,164.57,346.32,139.45,0.0413,Shallow (Sunlit / Caustics)
+706_img_.png,8.52,145.55,226.92,377.43,113.88,0.0042,Deep Sea (Severe Cast)
+707_img_.png,58.28,74.37,96.42,260.84,72.06,0.0016,Standard / Moderate
+708_img_.png,106.33,173.22,190.91,3246.86,155.23,0.0712,Shallow (Sunlit / Caustics)
+709_img_.png,33.01,69.72,199.43,699.4,73.52,0.0095,Deep Sea (Severe Cast)
+70_img_.png,25.38,91.84,100.41,142.95,72.93,0.0002,Deep Sea (Severe Cast)
+710_img_.png,125.43,191.14,187.52,1568.03,171.11,0.2327,Shallow (Sunlit / Caustics)
+711_img_.png,15.2,120.59,143.86,19.69,91.74,0,Turbid / High Haze + Deep Sea (Severe Cast)
+712_img_.png,11.59,99.42,119.95,26.19,75.49,0,Turbid / High Haze + Deep Sea (Severe Cast)
+713_img_.png,12.32,101.19,124.38,13.93,77.26,0,Turbid / High Haze + Deep Sea (Severe Cast)
+714_img_.png,10.12,82.76,101.43,10.5,63.15,0,Turbid / High Haze + Deep Sea (Severe Cast)
+715_img_.png,20.79,124.9,149.23,18.32,96.54,0,Turbid / High Haze + Deep Sea (Severe Cast)
+716_img_.png,8.19,86.99,104.31,21.58,65.43,0,Turbid / High Haze + Deep Sea (Severe Cast)
+718_img_.png,12.16,121.11,137.23,27.08,90.36,0,Turbid / High Haze + Deep Sea (Severe Cast)
+719_img_.png,2.97,139.85,162.87,18.92,101.54,0,Turbid / High Haze + Deep Sea (Severe Cast)
+720_img_.png,67.88,120.94,155.8,358.15,109.08,0.0087,Standard / Moderate
+721_img_.png,81.81,146.74,170.73,939.7,130.06,0.0323,Shallow (Sunlit / Caustics)
+722_img_.png,82.61,134.97,147.34,1551.35,120.73,0.0251,Shallow (Sunlit / Caustics)
+723_img_.png,102.76,126.62,79.87,358.09,114.15,0.0697,Shallow (Sunlit / Caustics)
+724_img_.png,120.03,140.68,174.77,87.52,138.37,0.0236,Turbid / High Haze + Shallow (Sunlit / Caustics)
+725_img_.png,110.06,140.52,185.65,466.12,136.56,0.1048,Shallow (Sunlit / Caustics)
+726_img_.png,62.41,141.63,174.06,2124.13,121.66,0.0231,Shallow (Sunlit / Caustics)
+727_img_.png,109.04,135.7,122.83,3251.85,126.26,0.1128,Shallow (Sunlit / Caustics)
+728_img_.png,105.09,128.25,111.41,51.15,119.4,0.0153,Turbid / High Haze
+729_img_.png,122.8,152.73,134.47,70.57,141.7,0.0358,Turbid / High Haze + Shallow (Sunlit / Caustics)
+72_img_.png,23.43,98.46,103.92,320.14,76.64,0.0004,Deep Sea (Severe Cast)
+730_img_.png,108.59,136.8,101.87,101.89,124.38,0.0077,Standard / Moderate
+731_img_.png,108.82,137.7,125.73,179.59,127.69,0.0182,Standard / Moderate
+732_img_.png,92.67,133.37,126.67,147.75,120.43,0.0194,Standard / Moderate
+733_img_.png,36.8,148.38,101.92,7.24,109.72,0,Turbid / High Haze + Deep Sea (Severe Cast)
+734_img_.png,34.47,138.82,102.38,67.81,103.46,0,Turbid / High Haze + Deep Sea (Severe Cast)
+735_img_.png,77.6,152.85,167.7,1250.19,132.04,0.0146,Standard / Moderate
+736_img_.png,75.96,102.54,94.09,296.61,93.63,0.0095,Standard / Moderate
+737_img_.png,92.24,128.16,135.23,3019.91,118.22,0.1025,Shallow (Sunlit / Caustics)
+738_img_.png,95.85,131.02,137.18,240.54,121.23,0.0192,Standard / Moderate
+73_img_.png,49.63,114.02,121.34,1181.53,95.58,0.0022,Standard / Moderate
+740_img_.png,69.8,159.34,154.38,37.5,132.01,0,Turbid / High Haze
+741_img_.png,94.55,118.52,108.11,152.56,110.16,0.0151,Standard / Moderate
+743_img_.png,25.62,115.9,160.25,66.77,93.98,0,Turbid / High Haze + Deep Sea (Severe Cast)
+744_img_.png,114,136.34,131.46,1878.95,129.11,0.038,Shallow (Sunlit / Caustics)
+745_img_.png,65.26,120.51,165.03,206.9,109.06,0.0007,Standard / Moderate
+746_img_.png,124.79,142.55,149.14,187.98,137.98,0.0626,Shallow (Sunlit / Caustics)
+747_img_.png,139.16,173.7,76.27,24.63,152.25,0.0099,Turbid / High Haze
+748_img_.png,118.08,138.64,79.07,13.88,125.71,0.0094,Turbid / High Haze
+749_img_.png,103.9,121.29,122.38,61.97,116.22,0.0179,Turbid / High Haze
+74_img_.png,86.19,156.01,192.34,150.55,139.27,0.0033,Standard / Moderate
+750_img_.png,60.99,99.5,119.75,56.83,90.3,0.0122,Turbid / High Haze
+751_img_.png,81.91,114.89,103.56,77.23,103.73,0.0085,Turbid / High Haze
+752_img_.png,86.38,122.55,130.32,3558.01,112.63,0.0089,Standard / Moderate
+753_img_.png,73.96,113.97,117.31,291.7,102.38,0.0128,Standard / Moderate
+754_img_.png,118.59,159.59,179.3,995.19,149.56,0.0541,Shallow (Sunlit / Caustics)
+756.png,38.52,108.29,85.63,40.83,84.85,0,Turbid / High Haze + Deep Sea (Severe Cast)
+756_img_.png,143.65,170.35,163.85,2002.53,161.64,0.2722,Shallow (Sunlit / Caustics)
+757_img_.png,85.01,80.67,74.28,148.93,81.23,0.0513,Shallow (Sunlit / Caustics)
+758.png,49.15,141.03,109.4,71.37,109.95,0.0039,Turbid / High Haze
+758_img_.png,107.3,153.55,171.68,53.24,141.79,0.0844,Turbid / High Haze + Shallow (Sunlit / Caustics)
+759_img_.png,95.98,122.36,149.74,110.74,117.58,0.0086,Standard / Moderate
+760_img_.png,90.77,147.65,179.9,4530.59,134.3,0.0621,Shallow (Sunlit / Caustics)
+762_img_.png,120.51,129.98,89.85,1163.43,122.57,0.0157,Standard / Moderate
+763_img_.png,128.74,135.79,129.2,444.56,132.93,0.1505,Shallow (Sunlit / Caustics)
+7643.png,4.14,125.72,131.44,88.18,90.01,0,Turbid / High Haze + Deep Sea (Severe Cast)
+764_img_.png,133.85,142.67,140.69,310.51,139.8,0.1135,Shallow (Sunlit / Caustics)
+7654.png,4.55,146.97,159.38,178.55,105.8,0,Deep Sea (Severe Cast)
+765_img_.png,123.54,143.42,139.77,428.94,137.05,0.0726,Shallow (Sunlit / Caustics)
+766_img_.png,135.67,135.09,120.69,178.76,133.62,0.0345,Shallow (Sunlit / Caustics)
+767_img_.png,70.84,125.98,127.6,61.81,109.69,0,Turbid / High Haze
+768_img_.png,139.3,152.51,152.6,18.35,148.57,0,Turbid / High Haze
+769_img_.png,166.28,175.82,113.09,647,165.81,0.0339,Shallow (Sunlit / Caustics)
+76_img_.png,78.68,178.06,156.97,74.36,145.94,0.011,Turbid / High Haze
+770_img_.png,106.79,114.22,118.38,5076.34,112.47,0.0506,Shallow (Sunlit / Caustics)
+771_img_.png,135.78,150.23,137.56,75.78,144.47,0.0318,Turbid / High Haze + Shallow (Sunlit / Caustics)
+772_img_.png,96.34,120.7,132.67,198.1,114.77,0.0018,Standard / Moderate
+773_img_.png,123.01,145.17,122.53,286.94,135.96,0.0066,Standard / Moderate
+775_img_.png,84.76,119.49,130.81,205.83,110.42,0.0013,Standard / Moderate
+776_img_.png,69.5,111.91,121.13,59.09,100.28,0.0001,Turbid / High Haze
+777_img_.png,89.03,118.56,119.1,204.75,109.81,0.0118,Standard / Moderate
+778_img_.png,82.72,117.5,115.32,136.76,106.86,0.0063,Standard / Moderate
+779_img_.png,89.21,116.49,111.68,204.63,107.79,0.0057,Standard / Moderate
+77_img_.png,78.29,142.91,127.91,763.31,121.87,0.0532,Shallow (Sunlit / Caustics)
+780_img_.png,79.52,120.68,119.28,240.62,108.23,0.0006,Standard / Moderate
+781_img_.png,74.88,115.95,119.21,64.5,104.05,0.0005,Turbid / High Haze
+782_img_.png,100.53,98.39,98.92,104.69,99.09,0.084,Shallow (Sunlit / Caustics)
+783_img_.png,96.83,113.38,98.75,451.52,106.77,0.0395,Shallow (Sunlit / Caustics)
+784_img_.png,94.16,107.51,113.75,1814.18,104.23,0.0275,Shallow (Sunlit / Caustics)
+785_img_.png,125.05,140.52,152.99,461.57,137.31,0.0157,Standard / Moderate
+786_img_.png,3.04,155.99,147.78,36.03,109.31,0.0002,Turbid / High Haze + Deep Sea (Severe Cast)
+787_img_.png,77.37,138.89,175.45,2391.36,124.66,0.0372,Shallow (Sunlit / Caustics)
+788_img_.png,127.99,149.12,133.66,232.3,141.04,0.0016,Standard / Moderate
+789_img_.png,49.65,149.88,105.32,539.9,114.82,0,Standard / Moderate
+78_img_.png,13.72,78.7,139.01,407.28,66.15,0,Deep Sea (Severe Cast)
+790_img_.png,85.72,75.16,75.67,189.56,78.37,0.0075,Standard / Moderate
+7916.png,1.57,115.96,158.3,88.83,86.57,0,Turbid / High Haze + Deep Sea (Severe Cast)
+791_img_.png,83.54,105.45,144.15,418.22,103.3,0.0024,Standard / Moderate
+792_img_.png,122.83,145.45,128.13,521.35,136.72,0.0253,Shallow (Sunlit / Caustics)
+793_img_.png,68.37,72.85,103.47,300.52,75.03,0.0074,Standard / Moderate
+794_img_.png,113.17,133.82,132.8,169.96,127.51,0.0058,Standard / Moderate
+795_img_.png,90.8,127.36,142.35,344.17,118.15,0.0194,Standard / Moderate
+796_img_.png,84.55,99.89,123.95,43.46,98.07,0.0851,Turbid / High Haze + Shallow (Sunlit / Caustics)
+797_img_.png,102.63,146.24,178.1,595.33,136.85,0.0196,Standard / Moderate
+798_img_.png,72.87,107.23,134.7,43.74,100.08,0.1019,Turbid / High Haze + Shallow (Sunlit / Caustics)
+799_img_.png,95.39,112.4,147.58,734.73,111.33,0.026,Shallow (Sunlit / Caustics)
+79_img_.png,87.26,111.85,111.59,3893.31,104.46,0.012,Standard / Moderate
+7_img_.png,19.94,104.93,113.52,211.65,80.49,0.0071,Deep Sea (Severe Cast)
+800_img_.png,95.45,137.16,140.81,133.26,125.12,0.0019,Standard / Moderate
+8010.png,2.59,128.71,165.12,116.83,95.15,0,Deep Sea (Severe Cast)
+802_img_.png,118.41,158.67,143.03,164.78,144.84,0.055,Shallow (Sunlit / Caustics)
+803_img_.png,91.98,108.68,117.7,144.38,104.71,0.0053,Standard / Moderate
+8046.png,1.07,127.13,169.43,44.93,94.27,0,Turbid / High Haze + Deep Sea (Severe Cast)
+804_img_.png,160.71,165.48,141.48,187.34,161.33,0.0276,Shallow (Sunlit / Caustics)
+8056.png,1.37,138.27,169.3,123.54,100.87,0,Deep Sea (Severe Cast)
+806_img_.png,94.42,105.7,109.55,2107.46,102.77,0.0129,Standard / Moderate
+807_img_.png,107.65,189.39,195.76,379.27,165.68,0.0587,Shallow (Sunlit / Caustics)
+808_img_.png,29.08,119.89,154.38,166.23,96.67,0.0007,Deep Sea (Severe Cast)
+809_img_.png,121.68,158.86,186.44,225.39,150.89,0.1388,Shallow (Sunlit / Caustics)
+80_img_.png,143.17,163.08,134.51,298.45,153.87,0.0682,Shallow (Sunlit / Caustics)
+810_img_.png,51.56,127.78,183.02,1014.11,111.28,0.006,Standard / Moderate
+811_img_.png,69.51,123.38,176.57,592.48,113.33,0.0002,Standard / Moderate
+812_img_.png,68.36,142.9,130.67,651.62,119.21,0.038,Shallow (Sunlit / Caustics)
+813_img_.png,14.17,150.85,164.04,83.68,111.49,0,Turbid / High Haze + Deep Sea (Severe Cast)
+814_img_.png,83.41,96.17,121.71,210.23,95.33,0.0012,Standard / Moderate
+815_img_.png,104.99,127.69,134.4,1754.65,121.67,0.021,Shallow (Sunlit / Caustics)
+816_img_.png,109.7,159.46,162.76,194.56,144.97,0.1161,Shallow (Sunlit / Caustics)
+817_img_.png,84.63,172.19,145.28,294.92,142.94,0.0449,Shallow (Sunlit / Caustics)
+818_img_.png,32.91,115,121.85,31.75,91.26,0,Turbid / High Haze + Deep Sea (Severe Cast)
+819_img_.png,87.97,78.73,61.43,178.32,79.52,0.0834,Shallow (Sunlit / Caustics)
+820_img_.png,118.14,117.46,115.87,1173.96,117.48,0.0596,Shallow (Sunlit / Caustics)
+821_img_.png,100.97,104.61,135.27,794.09,107.02,0.003,Standard / Moderate
+822_img_.png,16.02,116.74,111.33,112.27,86.01,0,Deep Sea (Severe Cast)
+823_img_.png,69.47,103.34,118.3,694.46,94.92,0.0169,Standard / Moderate
+8262.png,1.29,122.86,179.9,45.17,93.02,0,Turbid / High Haze + Deep Sea (Severe Cast)
+827_img_.png,100.93,133.79,134.94,179.56,124.09,0.0178,Standard / Moderate
+8288.png,1.71,132.75,172.93,32.76,98.15,0,Turbid / High Haze + Deep Sea (Severe Cast)
+828_img_.png,113.5,147.87,164.35,287.7,139.46,0.0445,Shallow (Sunlit / Caustics)
+829_img_.png,106.33,173.22,190.91,3246.86,155.23,0.0712,Shallow (Sunlit / Caustics)
+82_img_.png,146.58,165.8,133.07,306.17,156.32,0.0439,Shallow (Sunlit / Caustics)
+831_img_.png,67.88,120.94,155.8,358.15,109.08,0.0087,Standard / Moderate
+832_img_.png,107.31,135.4,122.6,3235.87,125.54,0.1123,Shallow (Sunlit / Caustics)
+833_img_.png,77.6,132.01,167.66,2357.12,119.82,0.0354,Shallow (Sunlit / Caustics)
+834_img_.png,24.51,149.25,146.24,4.96,111.6,0,Turbid / High Haze + Deep Sea (Severe Cast)
+835_img_.png,123.04,175.83,169.9,228.43,159.37,0.0886,Shallow (Sunlit / Caustics)
+837.png,68.13,93.75,104.45,64.32,87.32,0.0571,Turbid / High Haze + Shallow (Sunlit / Caustics)
+837_img_.png,93.81,118.09,138.45,32.32,113.16,0.0056,Turbid / High Haze
+838_img_.png,124.65,121.83,126.61,2228.77,123.22,0.0752,Shallow (Sunlit / Caustics)
+841.png,52.6,101.2,101.08,11.49,86.66,0,Turbid / High Haze
+841_img_.png,32.23,67.83,131.38,483.64,64.41,0.0006,Deep Sea (Severe Cast)
+842_img_.png,46.94,140.79,145.04,134,113.21,0.0012,Standard / Moderate
+843_img_.png,79.91,154.64,147.3,446.99,131.46,0.0125,Standard / Moderate
+844_img_.png,20.15,95.16,113.5,748.23,74.81,0.0002,Deep Sea (Severe Cast)
+845_img_.png,55.31,91.81,95.38,136.84,81.31,0,Standard / Moderate
+846_img_.png,86.56,100.04,121.21,1019.39,98.42,0.0194,Standard / Moderate
+847_img_.png,61.71,88.8,106.3,313.38,82.7,0.0261,Shallow (Sunlit / Caustics)
+848_img_.png,137.65,138.24,139.53,398.66,138.21,0.01,Standard / Moderate
+849_img_.png,94.79,171.35,170.84,1589.24,148.4,0.074,Shallow (Sunlit / Caustics)
+850_img_.png,1.96,170.67,186.6,63.41,122.02,0.0002,Turbid / High Haze + Deep Sea (Severe Cast)
+851_img_.png,125.36,122.46,123.23,720.45,123.42,0.0372,Shallow (Sunlit / Caustics)
+852_img_.png,24.82,95.08,146.76,848.31,79.96,0.0057,Deep Sea (Severe Cast)
+854_img_.png,29.49,160.55,174.81,187.73,122.99,0.0156,Deep Sea (Severe Cast)
+855_img_.png,38.31,145.54,188.77,75.7,118.44,0.0002,Turbid / High Haze + Deep Sea (Severe Cast)
+856_img_.png,91.94,125.78,145.16,816.68,117.88,0.0438,Shallow (Sunlit / Caustics)
+857_img_.png,30.21,118.85,112.92,1467.16,91.66,0,Deep Sea (Severe Cast)
+858_img_.png,84.16,125.14,102.42,22.65,110.29,0.0036,Turbid / High Haze
+859_img_.png,6.16,104.17,119.5,129.68,76.62,0.002,Deep Sea (Severe Cast)
+860_img_.png,100.91,185.08,130.95,505.64,153.74,0.0743,Shallow (Sunlit / Caustics)
+861_img_.png,3,123.13,137.98,61.09,88.92,0,Turbid / High Haze + Deep Sea (Severe Cast)
+862_img_.png,20.92,145.7,164.4,269.28,110.52,0.0199,Deep Sea (Severe Cast)
+863_img_.png,107.7,147.49,156.04,809.17,136.57,0.0341,Shallow (Sunlit / Caustics)
+865_img_.png,13.06,153.22,161.03,534.99,112.19,0.0021,Deep Sea (Severe Cast)
+866_img_.png,92.14,122.49,116.13,2231.58,112.68,0.042,Shallow (Sunlit / Caustics)
+867_img_.png,2.47,133.4,166.59,41.59,98.03,0,Turbid / High Haze + Deep Sea (Severe Cast)
+868_img_.png,45.96,115.64,135.85,569.7,97.1,0.0132,Standard / Moderate
+869_img_.png,60.56,75.92,103.72,1046.84,74.49,0,Standard / Moderate
+86_img_.png,68.23,183.03,161.66,66.34,146.27,0.0041,Turbid / High Haze
+871_img_.png,15.04,121.74,149.05,96.7,92.95,0,Turbid / High Haze + Deep Sea (Severe Cast)
+872_img_.png,4.99,168.66,232.78,110.9,127.03,0,Deep Sea (Severe Cast)
+873_img_.png,36.74,125.44,159.82,67.53,102.84,0,Turbid / High Haze + Deep Sea (Severe Cast)
+874_img_.png,53.16,74.12,94.96,223.89,70.23,0.0041,Standard / Moderate
+875_img_.png,119.9,183.6,165.92,818.11,162.52,0.0102,Standard / Moderate
+876_img_.png,80.74,129.96,136.53,570.69,115.98,0.0014,Standard / Moderate
+877_img_.png,22.97,123.89,126.11,130.53,93.96,0.0019,Deep Sea (Severe Cast)
+878_img_.png,15.28,113.59,149.1,968.85,88.24,0.0005,Deep Sea (Severe Cast)
+879_img_.png,3.98,97.6,135.95,106.03,73.97,0,Deep Sea (Severe Cast)
+87_img_.png,122.24,139.62,154.27,416.57,136.09,0.0063,Standard / Moderate
+880_img_.png,58.93,101.86,136.12,421.38,92.93,0,Standard / Moderate
+881_img_.png,29.55,134.96,133.96,136.54,103.33,0,Deep Sea (Severe Cast)
+887_img_.png,55.75,141.19,159.09,1710.2,117.68,0.0312,Shallow (Sunlit / Caustics)
+889_img_.png,93.29,119.71,102.78,50.83,109.87,0,Turbid / High Haze
+890.png,38.81,104.89,91.85,10.57,83.64,0,Turbid / High Haze + Deep Sea (Severe Cast)
+890_img_.png,102.94,122.98,97.84,99.43,114.12,0.0005,Turbid / High Haze
+891_img_.png,51.32,113.96,89.2,106.54,92.39,0.0035,Standard / Moderate
+892_img_.png,103.66,172.57,151.98,14.93,149.6,0,Turbid / High Haze
+893_img_.png,1.22,135.79,169.76,93.17,99.45,0,Turbid / High Haze + Deep Sea (Severe Cast)
+895_img_.png,39.31,136.66,122.68,57.2,105.96,0.0276,Turbid / High Haze + Shallow (Sunlit / Caustics)
+896_img_.png,46.55,138.13,140.78,14.21,111.06,0,Turbid / High Haze
+89_img_.png,115.43,186.23,182.37,533.23,164.61,0.0289,Shallow (Sunlit / Caustics)
+8_img_.png,37.21,149.83,98.9,63.5,110.37,0,Turbid / High Haze + Deep Sea (Severe Cast)
+901_img_.png,130.93,123.28,98.69,424.06,122.77,0.008,Standard / Moderate
+904_img_.png,139.24,150.41,66.79,42.89,137.52,0.0423,Turbid / High Haze + Shallow (Sunlit / Caustics)
+905_img_.png,134.11,141.47,144.13,2.29,139.59,0,Turbid / High Haze
+906_img_.png,64.86,172.29,56.91,48.5,127.01,0.0001,Turbid / High Haze
+907_img_.png,104.04,147.78,97.95,8.85,129,0,Turbid / High Haze
+908_img_.png,92.86,173.46,130.96,39.02,144.49,0,Turbid / High Haze
+909_img_.png,34.68,180.57,13.24,13.93,117.89,0,Turbid / High Haze + Deep Sea (Severe Cast)
+90_img_.png,126.22,136.21,150.77,624.35,134.88,0.0094,Standard / Moderate
+910_img_.png,49.6,189.71,36.42,40.92,130.35,0.0001,Turbid / High Haze
+911_img_.png,52.83,115.76,155.12,28.82,101.42,0.0004,Turbid / High Haze
+912_img_.png,80.03,113.96,160.61,27.5,109.13,0,Turbid / High Haze
+913_img_.png,56.97,124,131.05,1626.11,104.75,0.0236,Shallow (Sunlit / Caustics)
+914_img_.png,25.01,127.66,160.9,1648.91,100.76,0,Deep Sea (Severe Cast)
+915_img_.png,65.34,108.26,89.26,1328.19,93.26,0.0142,Standard / Moderate
+916_img_.png,69.02,109.83,89.45,3825.45,95.29,0.001,Standard / Moderate
+917_img_.png,80.03,99.3,88.25,186.43,92.28,0.0001,Standard / Moderate
+918_img_.png,95.89,102.14,108.52,799.28,101,0.1658,Shallow (Sunlit / Caustics)
+919_img_.png,148.08,150.23,97.33,1222.91,143.56,0.0419,Shallow (Sunlit / Caustics)
+91_img_.png,39.76,100.9,40.46,337.15,75.71,0.0276,Shallow (Sunlit / Caustics)
+920_img_.png,99.32,113.16,108.7,1328.44,108.51,0.0099,Standard / Moderate
+921_img_.png,89.2,119.28,90.02,221.55,106.95,0.0352,Shallow (Sunlit / Caustics)
+922_img_.png,106.73,117.28,105.86,106.42,112.82,0.0008,Standard / Moderate
+923_img_.png,80.92,102.41,69.94,3794.63,92.28,0.0351,Shallow (Sunlit / Caustics)
+924_img_.png,28.53,130.23,107.24,9699.2,97.2,0.0081,Deep Sea (Severe Cast)
+925_img_.png,95.42,124.68,120.61,11138.82,115.47,0.0416,Shallow (Sunlit / Caustics)
+926_img_.png,48.54,134.17,119.24,4181.65,106.86,0.0284,Shallow (Sunlit / Caustics)
+927_img_.png,37.73,90.7,76.81,1051.22,73.26,0.0009,Deep Sea (Severe Cast)
+928_img_.png,56.18,80.34,115.52,4174.58,77.11,0.0116,Standard / Moderate
+929_img_.png,88.13,104.04,104.92,1925.45,99.37,0.0144,Standard / Moderate
+92_img_.png,126.2,132.41,143.98,741.11,131.87,0.0068,Standard / Moderate
+94_img_.png,45.95,135.74,121.63,1036.27,107.28,0.0132,Standard / Moderate
+9547.png,140.83,144.75,157.14,370.66,144.99,0.1821,Shallow (Sunlit / Caustics)
+9554.png,127.93,160.35,178.83,94.03,152.76,0.1101,Turbid / High Haze + Shallow (Sunlit / Caustics)
+9557.png,100.32,131.42,162.59,34.13,125.67,0.0029,Turbid / High Haze
+9567.png,45.74,111.61,141.01,81.51,95.27,0.0061,Turbid / High Haze
+95_img_.png,115.73,120.99,127.64,481.7,120.18,0.001,Standard / Moderate
+96_img_.png,110.4,141.94,134.21,1002.05,131.62,0.0521,Shallow (Sunlit / Caustics)
+97_img_.png,123.19,139.39,157.83,224.61,136.65,0.004,Standard / Moderate
+9896.png,66.86,112.17,112.14,163.45,98.62,0,Standard / Moderate
+98_img_.png,54.75,99.15,143.36,541.9,90.91,0,Standard / Moderate
+9900.png,81.84,131.79,135.38,141.61,117.26,0,Standard / Moderate
+9907.png,108.44,121.11,109.82,170.13,116.03,0.0001,Standard / Moderate
+9947.png,90.12,74.64,64.14,105.23,78.07,0,Standard / Moderate
+99_img_.png,73.67,133.01,151.95,445.98,117.4,0.0001,Standard / Moderate
+9_img_.png,6.07,99.91,135.36,171.08,75.87,0.0001,Deep Sea (Severe Cast)
