@@ -2,10 +2,10 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 100_img_.png,22.9,134.83,175.35,664.33,105.98,0.0001,Deep Sea (Severe Cast)
 10139.png,55.34,149.9,162.76,55.64,123.12,0,Turbid / High Haze
 10151.png,57.48,108.43,96.13,94.51,91.8,0,Turbid / High Haze
-101_img_.png,101.42,156.63,112.2,68.93,135.05,0.0001,Turbid / High Haze
-102_img_.png,30.29,114.32,91.74,116.44,86.61,0.0001,Deep Sea (Severe Cast)
+101_img_.png,101.42,156.63,112.2,68.93,135.05,0.0001,Turbid / High Haze + High Green Density (Algae)
+102_img_.png,30.29,114.32,91.74,116.44,86.61,0.0001,High Green Density (Algae) + Deep Sea (Severe Cast)
 104_img_.png,41.49,121.62,166.43,54.36,102.76,0.0045,Turbid / High Haze
-105_img_.png,26.3,146.2,74.31,97.4,102.15,0,Turbid / High Haze + Deep Sea (Severe Cast)
+105_img_.png,26.3,146.2,74.31,97.4,102.15,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 106_img_.png,44.66,66.1,82.12,1056.34,61.5,0,Standard / Moderate
 107_img_.png,4.7,113.94,177.4,21.89,88.5,0,Turbid / High Haze + Deep Sea (Severe Cast)
 108_img_.png,106.33,169.03,180.72,156.28,151.58,0.0019,Standard / Moderate
@@ -55,8 +55,8 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 1407.png,75.07,89.67,95.98,85.92,86.04,0.0097,Turbid / High Haze
 140_img_.png,40.55,103.43,115.79,125.64,86.03,0.0007,Standard / Moderate
 141_img_.png,101.88,124.58,144.3,258.57,120.04,0.0026,Standard / Moderate
-142_img_.png,1.93,152.37,113.7,17.31,102.96,0,Turbid / High Haze + Deep Sea (Severe Cast)
-143_img_.png,21.56,157.4,135.74,265.76,114.31,0.0027,Deep Sea (Severe Cast)
+142_img_.png,1.93,152.37,113.7,17.31,102.96,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
+143_img_.png,21.56,157.4,135.74,265.76,114.31,0.0027,High Green Density (Algae) + Deep Sea (Severe Cast)
 144_img_.png,111.41,139.82,160.78,239.07,133.71,0.0013,Standard / Moderate
 145_img_.png,105.34,130.11,149.49,202.71,124.91,0.0009,Standard / Moderate
 146_img_.png,3.03,140.62,145.78,310.55,100.06,0,Deep Sea (Severe Cast)
@@ -76,7 +76,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 1539.png,61.15,103.69,91.7,119.51,89.61,0,Standard / Moderate
 153_img_.png,63.79,128.61,158.7,196.53,112.66,0.0023,Standard / Moderate
 15418.png,94.13,99.39,25.86,21.92,89.44,0.0013,Turbid / High Haze
-15426.png,88.17,108.95,42.65,20.7,95.19,0.0014,Turbid / High Haze
+15426.png,88.17,108.95,42.65,20.7,95.19,0.0014,Turbid / High Haze + High Green Density (Algae)
 154_img_.png,124.87,135.79,146.87,450.54,133.78,0.0046,Standard / Moderate
 15544.png,112.29,123.75,75.95,233.42,114.86,0.0403,Shallow (Sunlit / Caustics)
 155_img_.png,93.96,124.91,109.03,787.47,113.84,0.0126,Standard / Moderate
@@ -96,11 +96,11 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 1660.png,32.07,116.12,110.47,31.15,90.35,0,Turbid / High Haze + Deep Sea (Severe Cast)
 166_img_.png,59.57,109.82,95.07,671.77,93.11,0.0072,Standard / Moderate
 168_img_.png,1.74,117.56,173.24,83.55,89.25,0,Turbid / High Haze + Deep Sea (Severe Cast)
-169_img_.png,73.49,171.32,144.47,945.79,139.01,0.0313,Shallow (Sunlit / Caustics)
+169_img_.png,73.49,171.32,144.47,945.79,139.01,0.0313,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 16_img_.png,121.55,126.26,131.96,134.72,125.5,0.0054,Standard / Moderate
 170_img_.png,86.92,129.85,160.87,223.4,120.55,0,Standard / Moderate
-171_img_.png,79.31,157.89,136.83,74.61,131.99,0.002,Turbid / High Haze
-172_img_.png,82.06,165.48,133.91,1648.02,136.92,0.0137,Standard / Moderate
+171_img_.png,79.31,157.89,136.83,74.61,131.99,0.002,Turbid / High Haze + High Green Density (Algae)
+172_img_.png,82.06,165.48,133.91,1648.02,136.92,0.0137,High Green Density (Algae)
 173_img_.png,70.72,138.98,166.98,375.9,121.76,0.0021,Standard / Moderate
 1742.png,63.86,143.28,144,32.91,119.62,0,Turbid / High Haze
 174_img_.png,97.33,173.23,203.37,45.68,153.97,0.0014,Turbid / High Haze
@@ -119,7 +119,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 187_img_.png,120.02,131.83,117.7,272.03,126.68,0.0101,Standard / Moderate
 188_img_.png,115.88,129.67,99.09,766.91,122.06,0.0127,Standard / Moderate
 189_img_.png,5.79,111.49,128.85,69.97,81.86,0.0001,Turbid / High Haze + Deep Sea (Severe Cast)
-18_img_.png,12.28,176.96,104.32,109.83,119.43,0,Deep Sea (Severe Cast)
+18_img_.png,12.28,176.96,104.32,109.83,119.43,0,High Green Density (Algae) + Deep Sea (Severe Cast)
 190_img_.png,115.1,122.7,111.74,325.87,119.18,0.0002,Standard / Moderate
 191_img_.png,114.18,123.26,130.2,367.3,121.33,0.0008,Standard / Moderate
 192_img_.png,92.73,112.65,103.45,1030.28,105.65,0.0156,Standard / Moderate
@@ -137,7 +137,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 201_img_.png,95.04,122.76,115.95,1353.7,113.7,0.0131,Standard / Moderate
 202_img_.png,169.93,187.09,120.12,205.14,174.33,0.0305,Shallow (Sunlit / Caustics)
 203_img_.png,10.76,115.34,117.46,418.69,84.27,0.0075,Deep Sea (Severe Cast)
-204_img_.png,26.11,141.19,63.75,75.32,97.94,0,Turbid / High Haze + Deep Sea (Severe Cast)
+204_img_.png,26.11,141.19,63.75,75.32,97.94,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 205_img_.png,129.24,138.28,137.59,110.27,135.5,0.0001,Standard / Moderate
 206_img_.png,106.15,117.84,94.52,831.27,111.69,0.0097,Standard / Moderate
 207_img_.png,115.87,128.26,98.02,771.74,121.11,0.0059,Standard / Moderate
@@ -223,11 +223,11 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 285_img_.png,29.24,99.5,116.46,127.25,80.42,0.0079,Deep Sea (Severe Cast)
 287_img_.png,24.93,93.68,117.53,597.28,75.82,0.0031,Deep Sea (Severe Cast)
 2882.png,61.1,82.03,79.02,42.97,75.43,0,Turbid / High Haze
-288_img_.png,38.55,137.79,104.87,662.4,104.36,0.002,Deep Sea (Severe Cast)
+288_img_.png,38.55,137.79,104.87,662.4,104.36,0.002,High Green Density (Algae) + Deep Sea (Severe Cast)
 28_img_.png,68.9,145.74,135.44,300.87,121.59,0.024,Shallow (Sunlit / Caustics)
 290_img_.png,47.64,77.49,68.32,815.93,67.51,0.0028,Standard / Moderate
 292_img_.png,119.47,161.4,142.46,701.06,146.7,0.0588,Shallow (Sunlit / Caustics)
-293_img_.png,44.53,138.28,96.01,1183.27,105.43,0,Standard / Moderate
+293_img_.png,44.53,138.28,96.01,1183.27,105.43,0,High Green Density (Algae)
 294_img_.png,30.64,36.24,43.36,3291.88,35.39,0.0005,Low Illumination
 295_img_.png,43.28,138.4,153.85,4400.91,111.71,0.0139,Standard / Moderate
 296_img_.png,56.05,122.69,107.03,48.28,100.98,0.0001,Turbid / High Haze
@@ -237,7 +237,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 29_img_.png,108.27,107.65,121.77,2313.62,109.43,0.0051,Standard / Moderate
 2_img_.png,56.14,96.66,119.61,3764.01,87.14,0.0046,Standard / Moderate
 3001.png,17.92,86.6,105.58,68.39,68.24,0,Turbid / High Haze + Deep Sea (Severe Cast)
-300_img_.png,58.58,109.99,69.27,592.33,89.95,0.0008,Standard / Moderate
+300_img_.png,58.58,109.99,69.27,592.33,89.95,0.0008,High Green Density (Algae)
 3015.png,84.33,107.1,113.81,85.67,101.06,0.06,Turbid / High Haze + Shallow (Sunlit / Caustics)
 301_img_.png,13.18,129.97,130.54,344.42,95.12,0,Deep Sea (Severe Cast)
 302_img_.png,7.74,102.53,117.4,267.47,75.88,0.0003,Deep Sea (Severe Cast)
@@ -245,10 +245,10 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 304_img_.png,100.51,104.89,54.99,1890.97,97.89,0.0006,Standard / Moderate
 305_img_.png,26.67,112.59,118.46,2049.99,87.56,0.004,Deep Sea (Severe Cast)
 306_img_.png,50.84,81.53,96.34,723.38,74.05,0.022,Shallow (Sunlit / Caustics)
-307_img_.png,89.33,132.3,104.88,377.79,116.31,0.0243,Shallow (Sunlit / Caustics)
+307_img_.png,89.33,132.3,104.88,377.79,116.31,0.0243,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 30_img_.png,46.21,163.34,172.06,933.84,129.31,0.0327,Shallow (Sunlit / Caustics)
 31.png,85.37,115.43,112.58,111.72,106.12,0.0099,Standard / Moderate
-311_img_.png,124.17,163.06,130.53,1394.01,147.71,0.0516,Shallow (Sunlit / Caustics)
+311_img_.png,124.17,163.06,130.53,1394.01,147.71,0.0516,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 312_img_.png,50.52,106.83,132.19,1717.19,92.87,0.0032,Standard / Moderate
 313_img_.png,26.37,105.69,129.46,1101.65,84.68,0.0008,Deep Sea (Severe Cast)
 314_img_.png,42.8,118.76,119.51,402.99,96.13,0.0001,Standard / Moderate
@@ -311,11 +311,11 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 377_img_.png,80.15,114.38,139.84,40.98,107.04,0.0028,Turbid / High Haze
 378_img_.png,120.33,121.17,122.51,226.31,121.07,0.0536,Shallow (Sunlit / Caustics)
 379_img_.png,105.5,114.44,139.45,25.21,114.61,0.013,Turbid / High Haze
-37_img_.png,91.95,119.52,88.99,599.84,107.8,0.0217,Shallow (Sunlit / Caustics)
-380_img_.png,46.98,185.56,142.22,15.59,139.2,0,Turbid / High Haze
+37_img_.png,91.95,119.52,88.99,599.84,107.8,0.0217,Shallow (Sunlit / Caustics) + High Green Density (Algae)
+380_img_.png,46.98,185.56,142.22,15.59,139.2,0,Turbid / High Haze + High Green Density (Algae)
 381_img_.png,9.25,166.83,200.71,345.46,123.58,0,Deep Sea (Severe Cast)
 382_img_.png,45.93,162.79,171.44,140.63,128.87,0,Standard / Moderate
-383_img_.png,95.54,137.7,85.91,24.97,119.17,0.0001,Turbid / High Haze
+383_img_.png,95.54,137.7,85.91,24.97,119.17,0.0001,Turbid / High Haze + High Green Density (Algae)
 384_img_.png,44.9,160.67,192.85,101.27,129.74,0.0322,Shallow (Sunlit / Caustics)
 385_img_.png,43.28,73.67,74.62,168.69,64.68,0.0019,Standard / Moderate
 386_img_.png,114.78,149.03,131.89,287.11,136.82,0.0202,Shallow (Sunlit / Caustics)
@@ -340,7 +340,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 406_img_.png,26.69,182.45,190.96,48.07,136.86,0,Turbid / High Haze + Deep Sea (Severe Cast)
 4070.png,60.38,89.73,87.51,20.01,80.7,0,Turbid / High Haze
 407_img_.png,3.49,134.62,152.27,20.07,97.41,0,Turbid / High Haze + Deep Sea (Severe Cast)
-408_img_.png,53.49,132.32,107.35,306.6,105.91,0.0002,Standard / Moderate
+408_img_.png,53.49,132.32,107.35,306.6,105.91,0.0002,High Green Density (Algae)
 409_img_.png,43.73,117.25,132,1166.14,96.95,0.0062,Standard / Moderate
 410_img_.png,27.93,56.31,69.36,477.71,49.31,0.0034,Low Illumination
 411_img_.png,30.39,116.47,150.11,2079.49,94.56,0.0053,Deep Sea (Severe Cast)
@@ -362,18 +362,18 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 429_img_.png,44.35,139.89,167.15,54.27,114.43,0,Turbid / High Haze
 42_img_.png,31.62,65.53,57.56,857.07,54.47,0.0027,Standard / Moderate
 432_img_.png,83.15,138.03,135.89,17.47,121.37,0.0004,Turbid / High Haze
-433_img_.png,50.69,149.28,115.56,495.6,115.95,0,Standard / Moderate
+433_img_.png,50.69,149.28,115.56,495.6,115.95,0,High Green Density (Algae)
 435_img_.png,30.22,67.54,131.05,78.32,63.61,0.0001,Turbid / High Haze + Deep Sea (Severe Cast)
-436_img_.png,100.29,146.71,97.04,168.09,127.16,0.0242,Shallow (Sunlit / Caustics)
+436_img_.png,100.29,146.71,97.04,168.09,127.16,0.0242,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 437_img_.png,59.48,157.78,152.56,45,127.8,0,Turbid / High Haze
 438_img_.png,48.16,172.67,176.58,41.29,135.9,0.0205,Turbid / High Haze + Shallow (Sunlit / Caustics)
 439_img_.png,17.85,80.31,97.58,23.8,63.56,0.0001,Turbid / High Haze + Deep Sea (Severe Cast)
 43_img_.png,43.25,123.42,138.54,1928.84,101.17,0.0086,Standard / Moderate
 440_img_.png,41,177.59,170.32,16.41,135.95,0.0181,Turbid / High Haze
-441_img_.png,36.28,155.88,104.56,61.17,114.29,0,Turbid / High Haze + Deep Sea (Severe Cast)
-442_img_.png,64.02,159.72,131.86,723.66,127.92,0,Standard / Moderate
-443_img_.png,65.44,141.61,117.12,477.71,116.03,0.0105,Standard / Moderate
-444_img_.png,112.16,163.43,123.51,55.67,143.55,0.0009,Turbid / High Haze
+441_img_.png,36.28,155.88,104.56,61.17,114.29,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
+442_img_.png,64.02,159.72,131.86,723.66,127.92,0,High Green Density (Algae)
+443_img_.png,65.44,141.61,117.12,477.71,116.03,0.0105,High Green Density (Algae)
+444_img_.png,112.16,163.43,123.51,55.67,143.55,0.0009,Turbid / High Haze + High Green Density (Algae)
 445_img_.png,63.47,147.55,186.81,172.65,126.91,0.0071,Standard / Moderate
 446_img_.png,14.65,126.19,170.86,165.13,97.95,0,Deep Sea (Severe Cast)
 447_img_.png,61.34,138.34,136.53,56.95,115.1,0.0004,Turbid / High Haze
@@ -388,7 +388,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 455_img_.png,34.31,52.35,71.64,41.05,49.17,0,Low Illumination + Turbid / High Haze
 457_img_.png,108.77,135.36,140.68,155.84,128.01,0.0533,Shallow (Sunlit / Caustics)
 458_img_.png,60.29,136.08,134.77,91.45,113.27,0.0019,Turbid / High Haze
-459_img_.png,50.68,142.48,88.41,945.48,108.86,0.0207,Shallow (Sunlit / Caustics)
+459_img_.png,50.68,142.48,88.41,945.48,108.86,0.0207,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 45_img_.png,32.14,132.26,136.78,20.77,102.86,0,Turbid / High Haze + Deep Sea (Severe Cast)
 460_img_.png,49.34,118.97,107.67,1760.57,96.86,0.0102,Standard / Moderate
 461_img_.png,28.18,100.16,137.3,132.06,82.87,0.0102,Deep Sea (Severe Cast)
@@ -401,7 +401,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 468_img_.png,34.02,97.47,131.22,1858.75,82.34,0.0007,Deep Sea (Severe Cast)
 469_img_.png,151.03,206.39,214.3,31.45,190.73,0.0261,Turbid / High Haze + Shallow (Sunlit / Caustics)
 46_img_.png,16.83,92.03,112.89,268.74,71.91,0.0079,Deep Sea (Severe Cast)
-470_img_.png,14,157.94,125.15,9.13,111.18,0,Turbid / High Haze + Deep Sea (Severe Cast)
+470_img_.png,14,157.94,125.15,9.13,111.18,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 471_img_.png,160.92,146.2,70.68,54.78,142,0,Turbid / High Haze
 472_img_.png,48.94,87.14,121.45,184.93,79.59,0,Standard / Moderate
 473_img_.png,23.54,108.66,113.7,97.39,83.78,0.0176,Turbid / High Haze + Deep Sea (Severe Cast)
@@ -411,7 +411,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 479_img_.png,181.81,212.31,208.96,10.65,202.81,0.1368,Turbid / High Haze + Shallow (Sunlit / Caustics)
 480_img_.png,25.1,134.73,139.28,17.76,102.49,0.0002,Turbid / High Haze + Deep Sea (Severe Cast)
 481_img_.png,49.69,177.57,171.14,280.75,138.62,0,Standard / Moderate
-482_img_.png,69.63,144.1,117,1678.55,118.74,0.0453,Shallow (Sunlit / Caustics)
+482_img_.png,69.63,144.1,117,1678.55,118.74,0.0453,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 483_img_.png,59.49,99.67,131.85,2371.79,91.32,0.0158,Standard / Moderate
 484_img_.png,87.93,157.66,138.53,1741.65,134.61,0.0143,Standard / Moderate
 485_img_.png,69.48,107.13,144.73,24.84,100.13,0,Turbid / High Haze
@@ -425,7 +425,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 492_img_.png,48.55,118.66,108.99,155.11,96.57,0,Standard / Moderate
 493_img_.png,88.96,116.25,137.17,116.58,110.48,0.0005,Standard / Moderate
 494_img_.png,97.79,108.4,129.89,61.91,107.68,0.0003,Turbid / High Haze
-495_img_.png,58.82,125.31,72.02,121.34,99.34,0,Standard / Moderate
+495_img_.png,58.82,125.31,72.02,121.34,99.34,0,High Green Density (Algae)
 496_img_.png,22.61,144.7,138.66,814.16,107.5,0.0037,Deep Sea (Severe Cast)
 497_img_.png,68.98,130.18,110.22,1409.88,109.59,0.0184,Standard / Moderate
 498_img_.png,5.68,116.01,163.66,304.7,88.43,0,Deep Sea (Severe Cast)
@@ -446,27 +446,27 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 511_img_.png,62.96,127.35,178.18,469.3,113.89,0.0088,Standard / Moderate
 512_img_.png,86.8,114.14,124.22,1951.61,107.12,0.0045,Standard / Moderate
 513_img_.png,132.69,157.46,154.23,1821.74,149.68,0.1207,Shallow (Sunlit / Caustics)
-515_img_.png,44.73,129.11,78.9,18.92,98.14,0,Turbid / High Haze
-516_img_.png,81.33,147.72,119.87,607.64,124.69,0.0024,Standard / Moderate
+515_img_.png,44.73,129.11,78.9,18.92,98.14,0,Turbid / High Haze + High Green Density (Algae)
+516_img_.png,81.33,147.72,119.87,607.64,124.69,0.0024,High Green Density (Algae)
 517_img_.png,68.59,109.89,108.98,2532.52,97.44,0.0179,Standard / Moderate
 518_img_.png,9.48,177.5,204.12,96.82,130.3,0,Turbid / High Haze + Deep Sea (Severe Cast)
 519_img_.png,4.3,120.79,168.93,109.99,91.44,0,Deep Sea (Severe Cast)
-51_img_.png,48.35,107.42,84.47,264.67,87.13,0.0032,Standard / Moderate
+51_img_.png,48.35,107.42,84.47,264.67,87.13,0.0032,High Green Density (Algae)
 524_img_.png,24.91,131.82,168.42,2154.62,104.03,0.0502,Shallow (Sunlit / Caustics)
 526_img_.png,11.51,180.3,190.83,300.72,131.04,0,Deep Sea (Severe Cast)
-527_img_.png,62.25,177.3,151.01,526.33,139.91,0.0002,Standard / Moderate
+527_img_.png,62.25,177.3,151.01,526.33,139.91,0.0002,High Green Density (Algae)
 528_img_.png,7.21,164.83,171.67,251.39,118.48,0,Deep Sea (Severe Cast)
-52_img_.png,78.47,118.18,84.28,312.62,102.44,0.0058,Standard / Moderate
+52_img_.png,78.47,118.18,84.28,312.62,102.44,0.0058,High Green Density (Algae)
 530_img_.png,44.42,95.41,116.81,116.5,82.6,0,Standard / Moderate
 531_img_.png,126.06,136.1,155.17,17.58,135.28,0.0967,Turbid / High Haze + Shallow (Sunlit / Caustics)
-532_img_.png,50.03,102.87,55.51,189.63,81.65,0.0009,Standard / Moderate
-533_img_.png,54.03,82.74,37.96,108.33,69.04,0,Standard / Moderate
+532_img_.png,50.03,102.87,55.51,189.63,81.65,0.0009,High Green Density (Algae)
+533_img_.png,54.03,82.74,37.96,108.33,69.04,0,High Green Density (Algae)
 534_img_.png,147.84,141.08,77.31,91.42,135.87,0,Turbid / High Haze
-535_img_.png,47.97,140.25,92.28,176.52,107.17,0.0291,Shallow (Sunlit / Caustics)
+535_img_.png,47.97,140.25,92.28,176.52,107.17,0.0291,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 536_img_.png,56.65,111.94,107.14,603.34,94.85,0.0034,Standard / Moderate
 537_img_.png,51.06,114.27,108.64,502.3,94.72,0.0029,Standard / Moderate
 538_img_.png,24.21,125.37,115.75,185.8,94.03,0,Deep Sea (Severe Cast)
-539.png,31.93,115.93,92.31,85.8,88.12,0,Turbid / High Haze + Deep Sea (Severe Cast)
+539.png,31.93,115.93,92.31,85.8,88.12,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 539_img_.png,31.52,112.54,97.82,966.32,86.63,0.0009,Deep Sea (Severe Cast)
 53_img_.png,45.39,54.16,39.93,307.53,49.92,0.0004,Low Illumination
 540_img_.png,23.49,117.11,97.54,143.2,86.88,0,Deep Sea (Severe Cast)
@@ -482,14 +482,14 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 551_img_.png,26.03,111.43,96.62,326.91,84.2,0,Deep Sea (Severe Cast)
 552_img_.png,34.03,136.87,135.93,126,106.02,0.0014,Deep Sea (Severe Cast)
 554_img_.png,65.47,139.02,131.43,318.16,116.16,0.0096,Standard / Moderate
-5554.png,92.55,165.97,115.15,15.69,138.21,0.0013,Turbid / High Haze
+5554.png,92.55,165.97,115.15,15.69,138.21,0.0013,Turbid / High Haze + High Green Density (Algae)
 555_img_.png,38.42,110.85,108.64,219.66,88.93,0.0152,Deep Sea (Severe Cast)
 556_img_.png,35.64,118.34,123.8,162.04,94.23,0.0363,Shallow (Sunlit / Caustics)
 557.png,57.97,60.09,47.21,48.99,57.98,0,Turbid / High Haze
 557_img_.png,15.54,117.57,126.13,241.02,88.03,0.0005,Deep Sea (Severe Cast)
 558_img_.png,10.14,122.27,132.04,190.5,89.85,0,Deep Sea (Severe Cast)
 559.png,53.09,59.41,49.34,56.33,56.37,0,Turbid / High Haze
-55_img_.png,95.24,117.7,84.49,766.8,107.19,0.013,Standard / Moderate
+55_img_.png,95.24,117.7,84.49,766.8,107.19,0.013,High Green Density (Algae)
 560_img_.png,30.45,124.12,122.63,320.84,95.94,0.0004,Deep Sea (Severe Cast)
 561_img_.png,11.51,124.77,128.68,283.26,91.36,0.0001,Deep Sea (Severe Cast)
 562_img_.png,24.31,137.44,141.54,89.32,104.07,0.0079,Turbid / High Haze + Deep Sea (Severe Cast)
@@ -498,99 +498,99 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 564_img_.png,1.56,118.95,134.74,15.4,85.64,0,Turbid / High Haze + Deep Sea (Severe Cast)
 566_img_.png,126.34,137.17,139.4,70.77,134.19,0.0056,Turbid / High Haze
 567.png,70.4,77.92,71.24,17.61,74.92,0,Turbid / High Haze
-567_img_.png,75.1,120.25,87.29,2.65,102.96,0,Turbid / High Haze
-568_img_.png,76.07,120.96,88.63,2.21,103.84,0,Turbid / High Haze
-569_img_.png,21.07,129.27,99.99,23.31,93.58,0,Turbid / High Haze + Deep Sea (Severe Cast)
+567_img_.png,75.1,120.25,87.29,2.65,102.96,0,Turbid / High Haze + High Green Density (Algae)
+568_img_.png,76.07,120.96,88.63,2.21,103.84,0,Turbid / High Haze + High Green Density (Algae)
+569_img_.png,21.07,129.27,99.99,23.31,93.58,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 56_img_.png,33.55,102.86,85.17,168.29,80.11,0.0006,Deep Sea (Severe Cast)
-570_img_.png,71.77,119.32,56.89,65.87,97.97,0,Turbid / High Haze
-571_img_.png,67.07,116.67,57.19,65.53,95.05,0,Turbid / High Haze
+570_img_.png,71.77,119.32,56.89,65.87,97.97,0,Turbid / High Haze + High Green Density (Algae)
+571_img_.png,67.07,116.67,57.19,65.53,95.05,0,Turbid / High Haze + High Green Density (Algae)
 572_img_.png,129.43,130.87,125.68,168.39,129.85,0.0079,Standard / Moderate
-573_img_.png,83.9,118.47,94.29,5.14,105.36,0,Turbid / High Haze
-574_img_.png,18.42,131.82,94.48,6.49,93.65,0,Turbid / High Haze + Deep Sea (Severe Cast)
-575_img_.png,44.28,121.1,75.21,35.05,92.88,0,Turbid / High Haze
-576_img_.png,74.39,121.97,75.31,51.34,102.4,0,Turbid / High Haze
-577_img_.png,20.32,131.06,84.3,9.01,92.6,0,Turbid / High Haze + Deep Sea (Severe Cast)
-578_img_.png,41.38,124.59,97.11,70.65,96.58,0,Turbid / High Haze
-579_img_.png,43.2,131.73,93.22,15.67,100.86,0,Turbid / High Haze
-57_img_.png,71.65,133.1,65.34,354.03,106.98,0,Standard / Moderate
-580_img_.png,29.65,126.09,94.1,8.09,93.59,0,Turbid / High Haze + Deep Sea (Severe Cast)
-5818.png,93.14,186.11,144.15,4.93,153.52,0.0001,Turbid / High Haze
-581_img_.png,80.91,144.82,115.84,26.09,122.39,0.0036,Turbid / High Haze
+573_img_.png,83.9,118.47,94.29,5.14,105.36,0,Turbid / High Haze + High Green Density (Algae)
+574_img_.png,18.42,131.82,94.48,6.49,93.65,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
+575_img_.png,44.28,121.1,75.21,35.05,92.88,0,Turbid / High Haze + High Green Density (Algae)
+576_img_.png,74.39,121.97,75.31,51.34,102.4,0,Turbid / High Haze + High Green Density (Algae)
+577_img_.png,20.32,131.06,84.3,9.01,92.6,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
+578_img_.png,41.38,124.59,97.11,70.65,96.58,0,Turbid / High Haze + High Green Density (Algae)
+579_img_.png,43.2,131.73,93.22,15.67,100.86,0,Turbid / High Haze + High Green Density (Algae)
+57_img_.png,71.65,133.1,65.34,354.03,106.98,0,High Green Density (Algae)
+580_img_.png,29.65,126.09,94.1,8.09,93.59,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
+5818.png,93.14,186.11,144.15,4.93,153.52,0.0001,Turbid / High Haze + High Green Density (Algae)
+581_img_.png,80.91,144.82,115.84,26.09,122.39,0.0036,Turbid / High Haze + High Green Density (Algae)
 582_img_.png,71.89,114.84,121.54,165.46,102.76,0.0019,Standard / Moderate
-5830.png,84.25,186.05,148.72,3.61,151.38,0,Turbid / High Haze
+5830.png,84.25,186.05,148.72,3.61,151.38,0,Turbid / High Haze + High Green Density (Algae)
 583_img_.png,51.04,115.02,119.37,1270.37,96.39,0.0003,Standard / Moderate
-584_img_.png,83.42,135.84,97.16,48.46,115.74,0.0029,Turbid / High Haze
-585_img_.png,95.68,130.92,90.46,248.47,115.76,0.0011,Standard / Moderate
+584_img_.png,83.42,135.84,97.16,48.46,115.74,0.0029,Turbid / High Haze + High Green Density (Algae)
+585_img_.png,95.68,130.92,90.46,248.47,115.76,0.0011,High Green Density (Algae)
 586_img_.png,36.59,61.48,42.34,101,51.86,0,Standard / Moderate
-587_img_.png,83.86,145.56,114.15,267.99,123.51,0.0016,Standard / Moderate
-588_img_.png,96.53,154.79,117,254.43,133.04,0.0082,Standard / Moderate
+587_img_.png,83.86,145.56,114.15,267.99,123.51,0.0016,High Green Density (Algae)
+588_img_.png,96.53,154.79,117,254.43,133.04,0.0082,High Green Density (Algae)
 589_img_.png,94.72,163.66,144.02,49.31,140.79,0.0019,Turbid / High Haze
-58_img_.png,70.83,126.95,99.24,348.83,107.01,0.0058,Standard / Moderate
-590_img_.png,97.17,163.67,134.78,110.81,140.48,0.0178,Standard / Moderate
-591_img_.png,81.92,135.82,99.56,152.23,115.54,0.0047,Standard / Moderate
-592_img_.png,79.39,162.51,137.7,36.51,134.82,0,Turbid / High Haze
-593_img_.png,88.7,163.15,129.01,250.04,136.98,0.0131,Standard / Moderate
-594_img_.png,88.72,145.38,108.16,360.06,124.18,0.0055,Standard / Moderate
-595_img_.png,94.5,162.15,119.88,253.31,137.08,0.017,Standard / Moderate
-596_img_.png,89.35,156.05,121.8,211.45,132.17,0.0021,Standard / Moderate
-597_img_.png,78.29,164.08,124.47,128.38,133.89,0.0039,Standard / Moderate
+58_img_.png,70.83,126.95,99.24,348.83,107.01,0.0058,High Green Density (Algae)
+590_img_.png,97.17,163.67,134.78,110.81,140.48,0.0178,High Green Density (Algae)
+591_img_.png,81.92,135.82,99.56,152.23,115.54,0.0047,High Green Density (Algae)
+592_img_.png,79.39,162.51,137.7,36.51,134.82,0,Turbid / High Haze + High Green Density (Algae)
+593_img_.png,88.7,163.15,129.01,250.04,136.98,0.0131,High Green Density (Algae)
+594_img_.png,88.72,145.38,108.16,360.06,124.18,0.0055,High Green Density (Algae)
+595_img_.png,94.5,162.15,119.88,253.31,137.08,0.017,High Green Density (Algae)
+596_img_.png,89.35,156.05,121.8,211.45,132.17,0.0021,High Green Density (Algae)
+597_img_.png,78.29,164.08,124.47,128.38,133.89,0.0039,High Green Density (Algae)
 598.png,48.74,85.31,73.41,54.28,73.01,0,Turbid / High Haze
-598_img_.png,92.17,162.68,126.74,123.8,137.48,0.0187,Standard / Moderate
-599_img_.png,96.64,149.32,118.54,152,130.06,0.002,Standard / Moderate
+598_img_.png,92.17,162.68,126.74,123.8,137.48,0.0187,High Green Density (Algae)
+599_img_.png,96.64,149.32,118.54,152,130.06,0.002,High Green Density (Algae)
 59_img_.png,98.12,124.22,113.08,580.97,115.15,0.047,Shallow (Sunlit / Caustics)
-600_img_.png,109.9,156.89,116.81,243.3,138.26,0.0001,Standard / Moderate
-601_img_.png,108.73,150.71,119.18,229.73,134.55,0.0011,Standard / Moderate
-602_img_.png,92.65,158.83,122.25,180.34,134.87,0.0021,Standard / Moderate
-603_img_.png,92.57,147.21,110.97,283.01,126.72,0.0124,Standard / Moderate
-604_img_.png,81.81,144.68,109.5,185.49,121.85,0,Standard / Moderate
-605_img_.png,85.98,151.74,118.63,354.42,128.29,0.0001,Standard / Moderate
-6062.png,139.13,174.73,101.72,16.29,155.77,0.0001,Turbid / High Haze
-606_img_.png,90.61,154.51,125.17,325.06,132.05,0.0003,Standard / Moderate
-607_img_.png,55.85,150.5,116.98,19.12,118.39,0,Turbid / High Haze
-6082.png,91.87,181.71,134,17.84,149.42,0.0028,Turbid / High Haze
+600_img_.png,109.9,156.89,116.81,243.3,138.26,0.0001,High Green Density (Algae)
+601_img_.png,108.73,150.71,119.18,229.73,134.55,0.0011,High Green Density (Algae)
+602_img_.png,92.65,158.83,122.25,180.34,134.87,0.0021,High Green Density (Algae)
+603_img_.png,92.57,147.21,110.97,283.01,126.72,0.0124,High Green Density (Algae)
+604_img_.png,81.81,144.68,109.5,185.49,121.85,0,High Green Density (Algae)
+605_img_.png,85.98,151.74,118.63,354.42,128.29,0.0001,High Green Density (Algae)
+6062.png,139.13,174.73,101.72,16.29,155.77,0.0001,Turbid / High Haze + High Green Density (Algae)
+606_img_.png,90.61,154.51,125.17,325.06,132.05,0.0003,High Green Density (Algae)
+607_img_.png,55.85,150.5,116.98,19.12,118.39,0,Turbid / High Haze + High Green Density (Algae)
+6082.png,91.87,181.71,134,17.84,149.42,0.0028,Turbid / High Haze + High Green Density (Algae)
 608_img_.png,75.59,161.75,143.98,42.23,133.96,0,Turbid / High Haze
-609_img_.png,88.72,155.5,118.98,212.82,131.36,0.0011,Standard / Moderate
+609_img_.png,88.72,155.5,118.98,212.82,131.36,0.0011,High Green Density (Algae)
 60_img_.png,98.69,104.75,85.18,1884.03,100.7,0.0381,Shallow (Sunlit / Caustics)
 610_img_.png,72.88,105.8,115.63,455.44,97.07,0.005,Standard / Moderate
 611_img_.png,57.23,107.64,121.08,1948.09,94.08,0.0006,Standard / Moderate
-612_img_.png,90.72,151.73,116.17,105.95,129.42,0.0003,Standard / Moderate
-613_img_.png,85.32,158.01,128.8,129.65,132.93,0,Standard / Moderate
-614_img_.png,93.25,164.66,132.73,185.23,139.65,0.0039,Standard / Moderate
-615_img_.png,97.96,164.3,133.04,67.18,140.88,0.0236,Turbid / High Haze + Shallow (Sunlit / Caustics)
-616_img_.png,76.04,139.98,103,84.3,116.63,0,Turbid / High Haze
+612_img_.png,90.72,151.73,116.17,105.95,129.42,0.0003,High Green Density (Algae)
+613_img_.png,85.32,158.01,128.8,129.65,132.93,0,High Green Density (Algae)
+614_img_.png,93.25,164.66,132.73,185.23,139.65,0.0039,High Green Density (Algae)
+615_img_.png,97.96,164.3,133.04,67.18,140.88,0.0236,Turbid / High Haze + Shallow (Sunlit / Caustics) + High Green Density (Algae)
+616_img_.png,76.04,139.98,103,84.3,116.63,0,Turbid / High Haze + High Green Density (Algae)
 617_img_.png,88.78,155.06,136.84,195.27,133.16,0,Standard / Moderate
-618_img_.png,91.66,150.08,111.82,158.16,128.23,0,Standard / Moderate
+618_img_.png,91.66,150.08,111.82,158.16,128.23,0,High Green Density (Algae)
 619_img_.png,109.38,159.86,140.23,6.17,142.5,0,Turbid / High Haze
 61_img_.png,10.02,154.53,177.56,729.58,113.94,0.01,Deep Sea (Severe Cast)
-620_img_.png,83.86,123.1,94.41,19.84,108.08,0,Turbid / High Haze
-621_img_.png,98.63,139.02,112.01,94.08,123.86,0.0123,Turbid / High Haze
+620_img_.png,83.86,123.1,94.41,19.84,108.08,0,Turbid / High Haze + High Green Density (Algae)
+621_img_.png,98.63,139.02,112.01,94.08,123.86,0.0123,Turbid / High Haze + High Green Density (Algae)
 622_img_.png,89.55,174.18,173.42,2509.84,148.78,0.1064,Shallow (Sunlit / Caustics)
-623_img_.png,109.52,141.39,110.44,129.97,128.31,0.0131,Standard / Moderate
-625_img_.png,126.82,156.37,116.49,98.53,142.98,0.0881,Turbid / High Haze + Shallow (Sunlit / Caustics)
-626_img_.png,114.81,145.08,101.33,151.51,131.03,0.0052,Standard / Moderate
-627_img_.png,87.32,162.97,136.4,25.85,137.31,0,Turbid / High Haze
-628_img_.png,89.65,149,114.74,247.09,127.33,0.0123,Standard / Moderate
-629_img_.png,115.09,145.71,116.37,305.29,133.19,0.0044,Standard / Moderate
+623_img_.png,109.52,141.39,110.44,129.97,128.31,0.0131,High Green Density (Algae)
+625_img_.png,126.82,156.37,116.49,98.53,142.98,0.0881,Turbid / High Haze + Shallow (Sunlit / Caustics) + High Green Density (Algae)
+626_img_.png,114.81,145.08,101.33,151.51,131.03,0.0052,High Green Density (Algae)
+627_img_.png,87.32,162.97,136.4,25.85,137.31,0,Turbid / High Haze + High Green Density (Algae)
+628_img_.png,89.65,149,114.74,247.09,127.33,0.0123,High Green Density (Algae)
+629_img_.png,115.09,145.71,116.37,305.29,133.19,0.0044,High Green Density (Algae)
 62_img_.png,188.28,203.2,202.78,21.35,198.69,0.075,Turbid / High Haze + Shallow (Sunlit / Caustics)
-630_img_.png,83.52,156.58,122.42,197.19,130.82,0.0035,Standard / Moderate
-631_img_.png,92.45,148.01,113.39,772.38,127.44,0.0114,Standard / Moderate
+630_img_.png,83.52,156.58,122.42,197.19,130.82,0.0035,High Green Density (Algae)
+631_img_.png,92.45,148.01,113.39,772.38,127.44,0.0114,High Green Density (Algae)
 632_img_.png,75.19,92.12,129.43,500.97,91.29,0.0125,Standard / Moderate
-633_img_.png,94.27,160.9,129.18,181.83,137.34,0,Standard / Moderate
-634_img_.png,66.04,145.38,114.47,57.09,118.12,0,Turbid / High Haze
-635_img_.png,65.41,151.19,126.85,42.41,122.77,0,Turbid / High Haze
-636_img_.png,93,148.38,108.67,317.16,127.28,0.0092,Standard / Moderate
-637_img_.png,88.3,141.59,104.4,315.81,121.42,0.0011,Standard / Moderate
-638_img_.png,93.11,161.72,140.22,42.76,138.72,0,Turbid / High Haze
-639_img_.png,98,127.47,87.92,133.5,114.15,0,Standard / Moderate
+633_img_.png,94.27,160.9,129.18,181.83,137.34,0,High Green Density (Algae)
+634_img_.png,66.04,145.38,114.47,57.09,118.12,0,Turbid / High Haze + High Green Density (Algae)
+635_img_.png,65.41,151.19,126.85,42.41,122.77,0,Turbid / High Haze + High Green Density (Algae)
+636_img_.png,93,148.38,108.67,317.16,127.28,0.0092,High Green Density (Algae)
+637_img_.png,88.3,141.59,104.4,315.81,121.42,0.0011,High Green Density (Algae)
+638_img_.png,93.11,161.72,140.22,42.76,138.72,0,Turbid / High Haze + High Green Density (Algae)
+639_img_.png,98,127.47,87.92,133.5,114.15,0,High Green Density (Algae)
 63_img_.png,40.59,83.68,103.19,1317.1,73.03,0.0002,Standard / Moderate
-640_img_.png,80.67,163.62,133.56,42.12,135.35,0.0007,Turbid / High Haze
-641_img_.png,82.46,152.78,131.74,36.44,129.34,0,Turbid / High Haze
-642_img_.png,95.14,162.92,121.51,137.92,137.91,0,Standard / Moderate
-645_img_.png,59.8,136.16,114.74,259.57,110.89,0.0063,Standard / Moderate
+640_img_.png,80.67,163.62,133.56,42.12,135.35,0.0007,Turbid / High Haze + High Green Density (Algae)
+641_img_.png,82.46,152.78,131.74,36.44,129.34,0,Turbid / High Haze + High Green Density (Algae)
+642_img_.png,95.14,162.92,121.51,137.92,137.91,0,High Green Density (Algae)
+645_img_.png,59.8,136.16,114.74,259.57,110.89,0.0063,High Green Density (Algae)
 646_img_.png,56.09,125.02,107.15,286.85,102.37,0.0061,Standard / Moderate
 647_img_.png,78.66,112.96,120.72,71.1,103.6,0.0033,Turbid / High Haze
 648_img_.png,71.89,114.84,121.54,165.46,102.76,0.0019,Standard / Moderate
-649_img_.png,72.54,119.24,82.4,398.73,101.07,0.0055,Standard / Moderate
+649_img_.png,72.54,119.24,82.4,398.73,101.07,0.0055,High Green Density (Algae)
 64_img_.png,80.95,139.02,141.31,462.59,121.92,0.0248,Shallow (Sunlit / Caustics)
 650_img_.png,2.13,74.15,95.48,129.93,55.03,0.001,Deep Sea (Severe Cast)
 651.png,71.67,98.01,89.07,122.89,89.12,0.0134,Standard / Moderate
@@ -599,15 +599,15 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 653_img_.png,55.17,131.6,115.23,933.41,106.88,0.0026,Standard / Moderate
 654_img_.png,4.69,135.54,137.76,21.06,96.67,0,Turbid / High Haze + Deep Sea (Severe Cast)
 655_img_.png,6.86,142.81,161.71,104.22,104.32,0.0012,Deep Sea (Severe Cast)
-656_img_.png,105.93,204.99,163.25,18.05,170.65,0.0079,Turbid / High Haze
+656_img_.png,105.93,204.99,163.25,18.05,170.65,0.0079,Turbid / High Haze + High Green Density (Algae)
 657_img_.png,44.58,137.9,128.78,350.58,108.95,0.0125,Standard / Moderate
-658_img_.png,53.69,171.19,103.67,26.48,128.36,0.0001,Turbid / High Haze
+658_img_.png,53.69,171.19,103.67,26.48,128.36,0.0001,Turbid / High Haze + High Green Density (Algae)
 659_img_.png,4.53,140.6,170.03,88.2,103.27,0,Turbid / High Haze + Deep Sea (Severe Cast)
 65_img_.png,79.81,117.46,142.74,3043.91,109.08,0.0172,Standard / Moderate
 660_img_.png,122.76,177.99,181.85,29.33,161.9,0.0558,Turbid / High Haze + Shallow (Sunlit / Caustics)
 661_img_.png,103.38,112.33,141.84,351.44,113.02,0.1203,Shallow (Sunlit / Caustics)
 662_img_.png,40.89,110.62,108.9,60.07,89.59,0,Turbid / High Haze
-663_img_.png,3.78,109.81,84.51,29.44,75.21,0,Turbid / High Haze + Deep Sea (Severe Cast)
+663_img_.png,3.78,109.81,84.51,29.44,75.21,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 666_img_.png,15.77,74.36,98.03,23.33,59.52,0,Turbid / High Haze + Deep Sea (Severe Cast)
 668_img_.png,15.61,127.22,152.03,15.08,96.68,0,Turbid / High Haze + Deep Sea (Severe Cast)
 670_img_.png,9.67,93.62,107.23,20.6,70.05,0,Turbid / High Haze + Deep Sea (Severe Cast)
@@ -667,7 +667,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 720_img_.png,67.88,120.94,155.8,358.15,109.08,0.0087,Standard / Moderate
 721_img_.png,81.81,146.74,170.73,939.7,130.06,0.0323,Shallow (Sunlit / Caustics)
 722_img_.png,82.61,134.97,147.34,1551.35,120.73,0.0251,Shallow (Sunlit / Caustics)
-723_img_.png,102.76,126.62,79.87,358.09,114.15,0.0697,Shallow (Sunlit / Caustics)
+723_img_.png,102.76,126.62,79.87,358.09,114.15,0.0697,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 724_img_.png,120.03,140.68,174.77,87.52,138.37,0.0236,Turbid / High Haze + Shallow (Sunlit / Caustics)
 725_img_.png,110.06,140.52,185.65,466.12,136.56,0.1048,Shallow (Sunlit / Caustics)
 726_img_.png,62.41,141.63,174.06,2124.13,121.66,0.0231,Shallow (Sunlit / Caustics)
@@ -675,11 +675,11 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 728_img_.png,105.09,128.25,111.41,51.15,119.4,0.0153,Turbid / High Haze
 729_img_.png,122.8,152.73,134.47,70.57,141.7,0.0358,Turbid / High Haze + Shallow (Sunlit / Caustics)
 72_img_.png,23.43,98.46,103.92,320.14,76.64,0.0004,Deep Sea (Severe Cast)
-730_img_.png,108.59,136.8,101.87,101.89,124.38,0.0077,Standard / Moderate
+730_img_.png,108.59,136.8,101.87,101.89,124.38,0.0077,High Green Density (Algae)
 731_img_.png,108.82,137.7,125.73,179.59,127.69,0.0182,Standard / Moderate
 732_img_.png,92.67,133.37,126.67,147.75,120.43,0.0194,Standard / Moderate
-733_img_.png,36.8,148.38,101.92,7.24,109.72,0,Turbid / High Haze + Deep Sea (Severe Cast)
-734_img_.png,34.47,138.82,102.38,67.81,103.46,0,Turbid / High Haze + Deep Sea (Severe Cast)
+733_img_.png,36.8,148.38,101.92,7.24,109.72,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
+734_img_.png,34.47,138.82,102.38,67.81,103.46,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 735_img_.png,77.6,152.85,167.7,1250.19,132.04,0.0146,Standard / Moderate
 736_img_.png,75.96,102.54,94.09,296.61,93.63,0.0095,Standard / Moderate
 737_img_.png,92.24,128.16,135.23,3019.91,118.22,0.1025,Shallow (Sunlit / Caustics)
@@ -691,8 +691,8 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 744_img_.png,114,136.34,131.46,1878.95,129.11,0.038,Shallow (Sunlit / Caustics)
 745_img_.png,65.26,120.51,165.03,206.9,109.06,0.0007,Standard / Moderate
 746_img_.png,124.79,142.55,149.14,187.98,137.98,0.0626,Shallow (Sunlit / Caustics)
-747_img_.png,139.16,173.7,76.27,24.63,152.25,0.0099,Turbid / High Haze
-748_img_.png,118.08,138.64,79.07,13.88,125.71,0.0094,Turbid / High Haze
+747_img_.png,139.16,173.7,76.27,24.63,152.25,0.0099,Turbid / High Haze + High Green Density (Algae)
+748_img_.png,118.08,138.64,79.07,13.88,125.71,0.0094,Turbid / High Haze + High Green Density (Algae)
 749_img_.png,103.9,121.29,122.38,61.97,116.22,0.0179,Turbid / High Haze
 74_img_.png,86.19,156.01,192.34,150.55,139.27,0.0033,Standard / Moderate
 750_img_.png,60.99,99.5,119.75,56.83,90.3,0.0122,Turbid / High Haze
@@ -700,10 +700,10 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 752_img_.png,86.38,122.55,130.32,3558.01,112.63,0.0089,Standard / Moderate
 753_img_.png,73.96,113.97,117.31,291.7,102.38,0.0128,Standard / Moderate
 754_img_.png,118.59,159.59,179.3,995.19,149.56,0.0541,Shallow (Sunlit / Caustics)
-756.png,38.52,108.29,85.63,40.83,84.85,0,Turbid / High Haze + Deep Sea (Severe Cast)
+756.png,38.52,108.29,85.63,40.83,84.85,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 756_img_.png,143.65,170.35,163.85,2002.53,161.64,0.2722,Shallow (Sunlit / Caustics)
 757_img_.png,85.01,80.67,74.28,148.93,81.23,0.0513,Shallow (Sunlit / Caustics)
-758.png,49.15,141.03,109.4,71.37,109.95,0.0039,Turbid / High Haze
+758.png,49.15,141.03,109.4,71.37,109.95,0.0039,Turbid / High Haze + High Green Density (Algae)
 758_img_.png,107.3,153.55,171.68,53.24,141.79,0.0844,Turbid / High Haze + Shallow (Sunlit / Caustics)
 759_img_.png,95.98,122.36,149.74,110.74,117.58,0.0086,Standard / Moderate
 760_img_.png,90.77,147.65,179.9,4530.59,134.3,0.0621,Shallow (Sunlit / Caustics)
@@ -717,11 +717,11 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 767_img_.png,70.84,125.98,127.6,61.81,109.69,0,Turbid / High Haze
 768_img_.png,139.3,152.51,152.6,18.35,148.57,0,Turbid / High Haze
 769_img_.png,166.28,175.82,113.09,647,165.81,0.0339,Shallow (Sunlit / Caustics)
-76_img_.png,78.68,178.06,156.97,74.36,145.94,0.011,Turbid / High Haze
+76_img_.png,78.68,178.06,156.97,74.36,145.94,0.011,Turbid / High Haze + High Green Density (Algae)
 770_img_.png,106.79,114.22,118.38,5076.34,112.47,0.0506,Shallow (Sunlit / Caustics)
 771_img_.png,135.78,150.23,137.56,75.78,144.47,0.0318,Turbid / High Haze + Shallow (Sunlit / Caustics)
 772_img_.png,96.34,120.7,132.67,198.1,114.77,0.0018,Standard / Moderate
-773_img_.png,123.01,145.17,122.53,286.94,135.96,0.0066,Standard / Moderate
+773_img_.png,123.01,145.17,122.53,286.94,135.96,0.0066,High Green Density (Algae)
 775_img_.png,84.76,119.49,130.81,205.83,110.42,0.0013,Standard / Moderate
 776_img_.png,69.5,111.91,121.13,59.09,100.28,0.0001,Turbid / High Haze
 777_img_.png,89.03,118.56,119.1,204.75,109.81,0.0118,Standard / Moderate
@@ -737,7 +737,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 786_img_.png,3.04,155.99,147.78,36.03,109.31,0.0002,Turbid / High Haze + Deep Sea (Severe Cast)
 787_img_.png,77.37,138.89,175.45,2391.36,124.66,0.0372,Shallow (Sunlit / Caustics)
 788_img_.png,127.99,149.12,133.66,232.3,141.04,0.0016,Standard / Moderate
-789_img_.png,49.65,149.88,105.32,539.9,114.82,0,Standard / Moderate
+789_img_.png,49.65,149.88,105.32,539.9,114.82,0,High Green Density (Algae)
 78_img_.png,13.72,78.7,139.01,407.28,66.15,0,Deep Sea (Severe Cast)
 790_img_.png,85.72,75.16,75.67,189.56,78.37,0.0075,Standard / Moderate
 7916.png,1.57,115.96,158.3,88.83,86.57,0,Turbid / High Haze + Deep Sea (Severe Cast)
@@ -771,7 +771,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 814_img_.png,83.41,96.17,121.71,210.23,95.33,0.0012,Standard / Moderate
 815_img_.png,104.99,127.69,134.4,1754.65,121.67,0.021,Shallow (Sunlit / Caustics)
 816_img_.png,109.7,159.46,162.76,194.56,144.97,0.1161,Shallow (Sunlit / Caustics)
-817_img_.png,84.63,172.19,145.28,294.92,142.94,0.0449,Shallow (Sunlit / Caustics)
+817_img_.png,84.63,172.19,145.28,294.92,142.94,0.0449,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 818_img_.png,32.91,115,121.85,31.75,91.26,0,Turbid / High Haze + Deep Sea (Severe Cast)
 819_img_.png,87.97,78.73,61.43,178.32,79.52,0.0834,Shallow (Sunlit / Caustics)
 820_img_.png,118.14,117.46,115.87,1173.96,117.48,0.0596,Shallow (Sunlit / Caustics)
@@ -809,9 +809,9 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 855_img_.png,38.31,145.54,188.77,75.7,118.44,0.0002,Turbid / High Haze + Deep Sea (Severe Cast)
 856_img_.png,91.94,125.78,145.16,816.68,117.88,0.0438,Shallow (Sunlit / Caustics)
 857_img_.png,30.21,118.85,112.92,1467.16,91.66,0,Deep Sea (Severe Cast)
-858_img_.png,84.16,125.14,102.42,22.65,110.29,0.0036,Turbid / High Haze
+858_img_.png,84.16,125.14,102.42,22.65,110.29,0.0036,Turbid / High Haze + High Green Density (Algae)
 859_img_.png,6.16,104.17,119.5,129.68,76.62,0.002,Deep Sea (Severe Cast)
-860_img_.png,100.91,185.08,130.95,505.64,153.74,0.0743,Shallow (Sunlit / Caustics)
+860_img_.png,100.91,185.08,130.95,505.64,153.74,0.0743,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 861_img_.png,3,123.13,137.98,61.09,88.92,0,Turbid / High Haze + Deep Sea (Severe Cast)
 862_img_.png,20.92,145.7,164.4,269.28,110.52,0.0199,Deep Sea (Severe Cast)
 863_img_.png,107.7,147.49,156.04,809.17,136.57,0.0341,Shallow (Sunlit / Caustics)
@@ -820,7 +820,7 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 867_img_.png,2.47,133.4,166.59,41.59,98.03,0,Turbid / High Haze + Deep Sea (Severe Cast)
 868_img_.png,45.96,115.64,135.85,569.7,97.1,0.0132,Standard / Moderate
 869_img_.png,60.56,75.92,103.72,1046.84,74.49,0,Standard / Moderate
-86_img_.png,68.23,183.03,161.66,66.34,146.27,0.0041,Turbid / High Haze
+86_img_.png,68.23,183.03,161.66,66.34,146.27,0.0041,Turbid / High Haze + High Green Density (Algae)
 871_img_.png,15.04,121.74,149.05,96.7,92.95,0,Turbid / High Haze + Deep Sea (Severe Cast)
 872_img_.png,4.99,168.66,232.78,110.9,127.03,0,Deep Sea (Severe Cast)
 873_img_.png,36.74,125.44,159.82,67.53,102.84,0,Turbid / High Haze + Deep Sea (Severe Cast)
@@ -836,38 +836,38 @@ Filename,Red_Mean,Green_Mean,Blue_Mean,Blur_Variance,Brightness,Highlight_Ratio,
 887_img_.png,55.75,141.19,159.09,1710.2,117.68,0.0312,Shallow (Sunlit / Caustics)
 889_img_.png,93.29,119.71,102.78,50.83,109.87,0,Turbid / High Haze
 890.png,38.81,104.89,91.85,10.57,83.64,0,Turbid / High Haze + Deep Sea (Severe Cast)
-890_img_.png,102.94,122.98,97.84,99.43,114.12,0.0005,Turbid / High Haze
-891_img_.png,51.32,113.96,89.2,106.54,92.39,0.0035,Standard / Moderate
-892_img_.png,103.66,172.57,151.98,14.93,149.6,0,Turbid / High Haze
+890_img_.png,102.94,122.98,97.84,99.43,114.12,0.0005,Turbid / High Haze + High Green Density (Algae)
+891_img_.png,51.32,113.96,89.2,106.54,92.39,0.0035,High Green Density (Algae)
+892_img_.png,103.66,172.57,151.98,14.93,149.6,0,Turbid / High Haze + High Green Density (Algae)
 893_img_.png,1.22,135.79,169.76,93.17,99.45,0,Turbid / High Haze + Deep Sea (Severe Cast)
 895_img_.png,39.31,136.66,122.68,57.2,105.96,0.0276,Turbid / High Haze + Shallow (Sunlit / Caustics)
 896_img_.png,46.55,138.13,140.78,14.21,111.06,0,Turbid / High Haze
 89_img_.png,115.43,186.23,182.37,533.23,164.61,0.0289,Shallow (Sunlit / Caustics)
-8_img_.png,37.21,149.83,98.9,63.5,110.37,0,Turbid / High Haze + Deep Sea (Severe Cast)
+8_img_.png,37.21,149.83,98.9,63.5,110.37,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 901_img_.png,130.93,123.28,98.69,424.06,122.77,0.008,Standard / Moderate
 904_img_.png,139.24,150.41,66.79,42.89,137.52,0.0423,Turbid / High Haze + Shallow (Sunlit / Caustics)
 905_img_.png,134.11,141.47,144.13,2.29,139.59,0,Turbid / High Haze
-906_img_.png,64.86,172.29,56.91,48.5,127.01,0.0001,Turbid / High Haze
-907_img_.png,104.04,147.78,97.95,8.85,129,0,Turbid / High Haze
-908_img_.png,92.86,173.46,130.96,39.02,144.49,0,Turbid / High Haze
-909_img_.png,34.68,180.57,13.24,13.93,117.89,0,Turbid / High Haze + Deep Sea (Severe Cast)
+906_img_.png,64.86,172.29,56.91,48.5,127.01,0.0001,Turbid / High Haze + High Green Density (Algae)
+907_img_.png,104.04,147.78,97.95,8.85,129,0,Turbid / High Haze + High Green Density (Algae)
+908_img_.png,92.86,173.46,130.96,39.02,144.49,0,Turbid / High Haze + High Green Density (Algae)
+909_img_.png,34.68,180.57,13.24,13.93,117.89,0,Turbid / High Haze + High Green Density (Algae) + Deep Sea (Severe Cast)
 90_img_.png,126.22,136.21,150.77,624.35,134.88,0.0094,Standard / Moderate
-910_img_.png,49.6,189.71,36.42,40.92,130.35,0.0001,Turbid / High Haze
+910_img_.png,49.6,189.71,36.42,40.92,130.35,0.0001,Turbid / High Haze + High Green Density (Algae)
 911_img_.png,52.83,115.76,155.12,28.82,101.42,0.0004,Turbid / High Haze
 912_img_.png,80.03,113.96,160.61,27.5,109.13,0,Turbid / High Haze
 913_img_.png,56.97,124,131.05,1626.11,104.75,0.0236,Shallow (Sunlit / Caustics)
 914_img_.png,25.01,127.66,160.9,1648.91,100.76,0,Deep Sea (Severe Cast)
 915_img_.png,65.34,108.26,89.26,1328.19,93.26,0.0142,Standard / Moderate
-916_img_.png,69.02,109.83,89.45,3825.45,95.29,0.001,Standard / Moderate
+916_img_.png,69.02,109.83,89.45,3825.45,95.29,0.001,High Green Density (Algae)
 917_img_.png,80.03,99.3,88.25,186.43,92.28,0.0001,Standard / Moderate
 918_img_.png,95.89,102.14,108.52,799.28,101,0.1658,Shallow (Sunlit / Caustics)
 919_img_.png,148.08,150.23,97.33,1222.91,143.56,0.0419,Shallow (Sunlit / Caustics)
-91_img_.png,39.76,100.9,40.46,337.15,75.71,0.0276,Shallow (Sunlit / Caustics)
+91_img_.png,39.76,100.9,40.46,337.15,75.71,0.0276,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 920_img_.png,99.32,113.16,108.7,1328.44,108.51,0.0099,Standard / Moderate
-921_img_.png,89.2,119.28,90.02,221.55,106.95,0.0352,Shallow (Sunlit / Caustics)
+921_img_.png,89.2,119.28,90.02,221.55,106.95,0.0352,Shallow (Sunlit / Caustics) + High Green Density (Algae)
 922_img_.png,106.73,117.28,105.86,106.42,112.82,0.0008,Standard / Moderate
-923_img_.png,80.92,102.41,69.94,3794.63,92.28,0.0351,Shallow (Sunlit / Caustics)
-924_img_.png,28.53,130.23,107.24,9699.2,97.2,0.0081,Deep Sea (Severe Cast)
+923_img_.png,80.92,102.41,69.94,3794.63,92.28,0.0351,Shallow (Sunlit / Caustics) + High Green Density (Algae)
+924_img_.png,28.53,130.23,107.24,9699.2,97.2,0.0081,High Green Density (Algae) + Deep Sea (Severe Cast)
 925_img_.png,95.42,124.68,120.61,11138.82,115.47,0.0416,Shallow (Sunlit / Caustics)
 926_img_.png,48.54,134.17,119.24,4181.65,106.86,0.0284,Shallow (Sunlit / Caustics)
 927_img_.png,37.73,90.7,76.81,1051.22,73.26,0.0009,Deep Sea (Severe Cast)
